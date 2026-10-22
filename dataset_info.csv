@@ -1,0 +1,5 @@
+dataset,task,n_train,n_test,n_features,n_classes,train_duplicates_removed,classes
+UNSW-NB15,binary,101269,82332,42,2,74072,Attack;Benign
+UNSW-NB15,multi,107740,82332,42,10,67601,Analysis;Backdoor;Benign;DoS;Exploits;Fuzzers;Generic;Reconnaissance;Shellcode;Worms
+CICIoT2023,binary,426760,192047,39,2,21348,Attack;Benign
+CICIoT2023,multi,431020,192047,39,8,17088,Benign;BruteForce;DDoS;DoS;Mirai;Recon;Spoofing;Web

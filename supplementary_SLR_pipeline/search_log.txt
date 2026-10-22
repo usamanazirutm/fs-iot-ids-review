@@ -1,0 +1,9 @@
+Search run: 2026-10-22 06:59
+Years: 2018-2025
+OpenAlex query (title_and_abstract): ("IoT" OR "Internet of Things" OR "IIoT") AND ("intrusion detection" OR "attack detection" OR "anomaly detection") AND ("feature selection" OR "feature reduction" OR "dimensionality reduction" OR "feature subset") AND ("machine learning" OR "deep learning" OR "classifier" OR "classification")
+OpenAlex hits: 922  retrieved: 922
+Semantic Scholar query (bulk): ("IoT" | "Internet of Things" | "IIoT") + ("intrusion detection" | "attack detection" | "anomaly detection") + ("feature selection" | "feature reduction" | "dimensionality reduction" | "feature subset")
+Semantic Scholar hits: 1399  retrieved: 1399
+Duplicates/out-of-range removed: 676
+Unique records: 1645
+Records with abstract: 1384

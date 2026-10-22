@@ -1,0 +1,507 @@
+rec_id,doi,title,year,oa_url
+R0002,10.1155/2018/2492956,An Evolutionary Computation Based Feature Selection Method for Intrusion Detection,2018,http://downloads.hindawi.com/journals/scn/2018/2492956.pdf
+R0003,10.1051/matecconf/201815902021,An Integration of PSO-based Feature Selection and Random Forest for Anomaly Detection in IoT Network,2018,https://doi.org/10.1051/matecconf/201815902021
+R0009,10.1109/icarcv.2018.8581205,Dimensionality Reduction for Machine Learning Based IoT Botnet Detection,2018,
+R0013,10.1109/fuzz-ieee.2018.8491578,Network Intrusion Detection Using Kernel-based Fuzzy-rough Feature Selection,2018,
+R0018,10.3390/app9030437,A Correlation-Change Based Feature Selection Method for IoT Equipment Anomaly Detection,2019,https://www.mdpi.com/2076-3417/9/3/437/pdf?version=1548666808
+R0027,10.1016/j.cose.2019.02.008,CorrCorr: A feature selection method for multivariate correlation network anomaly detection techniques,2019,http://hdl.handle.net/10072/424000
+R0031,,Filtering And Forwarding Approach: For Feature Reduction And Classification For Anomaly Detection In Iot Environment,2019,
+R0032,10.1109/cw.2019.00059,Hybrid Feature Selection Models for Machine Learning Based Botnet Detection in IoT Networks,2019,
+R0042,10.35940/ijitee.f1446.0981119,Towards Improved Random Forest based Feature Selection for Intrusion Detection in Smart IOT Environment,2019,https://doi.org/10.35940/ijitee.f1446.0981119
+R0045,,A Feature Selection Method Based on Auto-Encoder for IoT Intrusion Detection,2020,
+R0047,10.22108/jcs.2020.119468.1033,A Lightweight Anomaly Detection Model using SVM for WSNs in IoT through a Hybrid Feature Selection Algorithm based on GA and GWO,2020,
+R0054,10.1109/icccnt49239.2020.9225415,AI Based Intrusion Detection System Using Self-Adaptive Energy Efficient BAT Algorithm for Software Defined IoT Networks,2020,
+R0055,10.1109/dependsys51298.2020.00015,An Ensemble Feature Selection Method for IoT IDS,2020,
+R0059,10.1109/access.2020.2980942,Analysis of Dimensionality Reduction Techniques on Big Data,2020,https://ieeexplore.ieee.org/ielx7/6287639/8948470/09036908.pdf
+R0061,10.1016/j.future.2020.05.020,"Augmented whale feature selection for IoT attacks: Structure, analysis and applications",2020,
+R0071,10.1109/ics51289.2020.00088,Feature Selection for Malicious Traffic Detection with Machine Learning,2020,
+R0072,10.1109/newcas49341.2020.9159817,Feature selection algorithms for flexible analog-to-feature converter,2020,
+R0076,10.1109/uemcon51285.2020.9298146,IoT Bonet and Network Intrusion Detection using Dimensionality Reduction and Supervised Machine Learning,2020,
+R0077,10.3390/s20216336,IoT Botnet Attack Detection Based on Optimized Extreme Gradient Boosting and Feature Selection,2020,https://www.mdpi.com/1424-8220/20/21/6336/pdf?version=1604654779
+R0083,10.1049/iet-net.2018.5206,Multi‐objective‐based feature selection for DDoS attack detection in IoT networks,2020,https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-net.2018.5206
+R0085,10.4018/978-1-7998-2701-6.ch016,Network-Based Detection of Mirai Botnet Using Machine Learning and Feature Selection Methods,2020,
+R0086,10.1109/iemtronics51293.2020.9216388,"PCA, Random-Forest and Pearson Correlation for Dimensionality Reduction in IoT IDS",2020,
+R0099,10.1109/iemcon53756.2021.9623082,A Machine Learning Framework for Intrusion Detection System in IoT Networks Using an Ensemble Feature Selection Method,2021,
+R0101,10.1109/ubmk52708.2021.9559011,A New Feature Selection Approach and Classification Technique for Current Intrusion Detection System,2021,
+R0103,10.21203/rs.3.rs-442429/v1,A Novel Intrusion Detection System for RPL Based IoT Networks with Bio-Inspired Feature Selection and Ensemble Classifier,2021,https://www.researchsquare.com/article/rs-442429/latest.pdf
+R0108,10.2174/2210327911666210120124340,A Wrapper Based Feature Selection Using Grey Wolf Optimization for Botnet Attack Detection,2021,
+R0113,10.3390/s22010140,Advanced Feature Extraction and Selection Approach Using Deep Learning and Aquila Optimizer for IoT Intrusion Detection System,2021,https://www.mdpi.com/1424-8220/22/1/140/pdf?version=1640511962
+R0116,10.1109/access.2021.3104113,An Advanced Intrusion Detection System for IIoT Based on GA and Tree Based Algorithms,2021,https://ieeexplore.ieee.org/ielx7/6287639/6514899/09511416.pdf
+R0117,10.3390/s22010185,An Aggregated Mutual Information Based Feature Selection with Machine Learning Methods for Enhancing IoT Botnet Attack Detection,2021,https://www.mdpi.com/1424-8220/22/1/185/pdf?version=1640689025
+R0119,10.1155/2021/6677027,An Anomaly Detection Algorithm Selection Service for IoT Stream Data Based on Tsfresh Tool and Genetic Algorithm,2021,https://downloads.hindawi.com/journals/scn/2021/6677027.pdf
+R0120,10.1109/iccci50826.2021.9402562,An Effective Intrusion Detection System for Securing IoT Using Feature Selection and Deep Learning,2021,
+R0125,10.17485/ijst/v14i1.2057,An efficient algorithmic technique for feature selection in IoT based intrusion detection system,2021,https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2021/Issue-1/IJST-2021-2057.pdf
+R0131,10.1109/iot52625.2021.9469605,Anomaly detection in Internet of Things using feature selection and classification based on Logistic Regression and Artificial Neural Network on N-BaIoT dataset,2021,
+R0134,10.3390/electronics10111341,Botnet Attack Detection Using Local Global Best Bat Algorithm for Industrial Internet of Things,2021,https://www.mdpi.com/2079-9292/10/11/1341/pdf?version=1623132230
+R0136,10.11113/ijic.v11n1.286,Comparative Study on Feature Selection Techniques in Intrusion Detection Systems using Ensemble Classifiers,2021,https://ijic.utm.my/index.php/ijic/article/download/286/201
+R0140,10.31590/ejosat.1017433,Detecting Internet of Things Attacks by Using Hybrid Learning and Feature Selection Method,2021,https://dergipark.org.tr/en/download/article-file/2057107
+R0141,10.1007/s11227-021-03697-5,Distributed intrusion detection scheme using dual-axis dimensionality reduction for Internet of things (IoT),2021,
+R0143,,Effective Feature Selection for Hybrid Wireless IoT Network Intrusion Detection Systems Using Machine Learning Techniques.,2021,
+R0144,10.1007/s11042-021-10567-y,Effective combining of feature selection techniques for machine learning-enabled IoT intrusion detection,2021,
+R0147,10.23919/eecsi53397.2021.9624298,Ensembling PCA-based Feature Selection with Random Tree Classifier for Intrusion Detection on IoT Network,2021,
+R0148,10.1109/jsen.2021.3084970,Expect the Unexpected: Unsupervised Feature Selection for Automated Sensor Anomaly Detection,2021,
+R0151,10.5815/ijwmt.2021.06.05,Feature Engineering for Cyber-attack detection in Internet of Things,2021,http://www.mecs-press.org/ijwmt/ijwmt-v11-n6/IJWMT-V11-N6-5.pdf
+R0153,10.1109/tpsisa52974.2021.00005,Feature Reduction through Data Preprocessing for Intrusion Detection in IoT Networks,2021,
+R0154,10.1007/978-981-16-3802-2_21,Feature Selection and Deep Learning Technique for Intrusion Detection System in IoT,2021,
+R0155,10.1016/j.icte.2021.04.012,Feature selection for intrusion detection system in Internet-of-Things (IoT),2021,https://www.sciencedirect.com/science/article/pii/S2405959521000588/pdf
+R0156,10.20944/preprints202106.0710.v1,Genetic Algorithm Based Feature Selection Technique for Optimal Intrusion Detection,2021,https://www.preprints.org/manuscript/202106.0710/v1/download
+R0157,10.13052/jmm1550-4646.1816,Genetic Algorithm-Conditional Mutual Information Maximization based feature selection for Bot Attack Classification in IoT devices,2021,https://doi.org/10.13052/jmm1550-4646.1816
+R0158,10.31185/wjcm.vol1.iss1.10,Hybrid Feature Selection Approach to Improve the Deep Neural Network on New Flow-Based Dataset for NIDS,2021,https://wjcm.uowasit.edu.iq/index.php/wjcm/article/download/10/6
+R0159,10.22266/ijies2021.0831.07,Hybrid Particle Swarm and Gray Wolf Optimization Algorithm for IoT Intrusion Detection System,2021,https://doi.org/10.22266/ijies2021.0831.07
+R0162,10.32604/jqc.2021.025373,Intrusion Detection Method of Internet of Things Based on Multi GBDT Feature Dimensionality Reduction and Hierarchical Traffic Detection,2021,https://doi.org/10.32604/jqc.2021.025373
+R0165,10.36227/techrxiv.13525409.v1,Intrusion Detection for Time-Series IoT Data with Recurrent Neural Networks and Feature Selection,2021,https://www.techrxiv.org/articles/preprint/Intrusion_Detection_for_Time-Series_IoT_Data_with_Recurrent_Neural_Networks_and_Feature_Selection/13525409/1/files/25962002.pdf
+R0166,10.1155/2021/7154587,Intrusion Detection in Industrial Internet of Things Network‐Based on Deep Learning Model with Rule‐Based Feature Selection,2021,https://downloads.hindawi.com/journals/wcmc/2021/7154587.pdf
+R0167,10.3390/sym13081377,IoT Botnet Detection Using Salp Swarm and Ant Lion Hybrid Optimization Model,2021,https://www.mdpi.com/2073-8994/13/8/1377/pdf?version=1628589126
+R0188,10.3390/s21144834,Using Embedded Feature Selection and CNN for Classification on CCD-INID-V1—A New IoT Dataset,2021,https://www.mdpi.com/1424-8220/21/14/4834/pdf?version=1626744839
+R0194,10.23919/apsipaasc55919.2022.9979923,A Comparison of Feature Selection and Feature Extraction in Network Intrusion Detection Systems,2022,
+R0203,10.18178/ijmlc.2022.12.2.1077,A Hybrid IDS Using GA-Based Feature Selection Method and Random Forest,2022,http://www.ijmlc.org/vol12/1077-T1087.pdf
+R0204,10.30880/ijie.2022.14.06.026,A Mechatronics System based on Feature Selection and AI for IoT Intrusion Detection Applications,2022,https://publisher.uthm.edu.my/ojs/index.php/ijie/article/download/11441/5366/56349
+R0205,10.1109/issi55442.2022.9963155,A Multi-Distance Ensemble and Feature Clustering Based Feature Selection Approach for Network Intrusion Detection,2022,
+R0213,10.11591/ijece.v12i3.pp3265-3275,A feature selection method based on auto-encoder for internet of things intrusion detection,2022,https://ijece.iaescore.com/index.php/IJECE/article/download/26030/15715
+R0214,10.1007/s10586-022-03607-1,A highly secured intrusion detection system for IoT using EXPSO-STFA feature selection for LAANN to detect attacks,2022,
+R0218,10.1007/s12083-022-01336-1,A new design of intrusion detection in IoT sector using optimal feature selection and high ranking-based ensemble learning model,2022,
+R0219,10.1002/cpe.7445,A novel framework approach for intrusion detection based on improved critical feature selection in Internet of Things networks,2022,
+R0220,10.1007/s10489-021-02968-1,A tree-based stacking ensemble technique with feature selection for network intrusion detection,2022,https://figshare.com/articles/journal_contribution/A_tree-based_stacking_ensemble_technique_with_feature_selection_for_network_intrusion_detection/21951008
+R0223,10.3390/s22041396,An Effective Feature Selection Model Using Hybrid Metaheuristic Algorithms for IoT Intrusion Detection,2022,https://www.mdpi.com/1424-8220/22/4/1396/pdf?version=1645064171
+R0229,10.1016/j.eswa.2022.118745,An improved PIO feature selection algorithm for IoT network intrusion detection system based on ensemble learning,2022,
+R0238,10.1016/j.aej.2022.10.033,Augmentation in performance and security of WSNs for IoT applications using feature selection and classification techniques,2022,https://doi.org/10.1016/j.aej.2022.10.033
+R0239,10.1109/icccnt54827.2022.9984574,Autoencoder Based Feature Selection for Phishing URL Attack Detection in IoT Using Stacked Autoencoder (AFS-SAE),2022,
+R0243,10.1109/icstcee56972.2022.10099827,Classification of DDoS in Software-Defined IoT Networks using Hybrid Feature Selection Technique with DL,2022,
+R0244,10.4025/actascitechnol.v45i1.60551,Combined Ensemble Intrusion Detection Model using Deep learning with Feature Selection for Fog Computing Environments,2022,https://doi.org/10.4025/actascitechnol.v45i1.60551
+R0247,10.5755/j01.itc.51.4.31818,Decision Tree with Pearson Correlation-based Recursive Feature Elimination Model for Attack Detection in IoT Environment,2022,https://itc.ktu.lt/index.php/ITC/article/download/31818/15669
+R0248,10.1109/cits55221.2022.9832976,Deep Reinforcement Learning based Intrusion Detection System with Feature Selections Method and Optimal Hyper-parameter in IoT Environment,2022,
+R0253,10.1504/ijics.2022.126757,Development of adaptive AdaBoost classifier with optimal feature selection for enhanced intrusion detection in IoT,2022,
+R0257,10.4018/ijsir.304901,ESREHO-MaxNet: Deep Maxout Network For Intrusion Detection And Attack Mitigation In Iot With Wrapper Based Feature Selection Approach,2022,
+R0258,10.3390/s22103819,Effective Feature Selection Methods to Detect IoT DDoS Attack in 5G Core Network,2022,https://www.mdpi.com/1424-8220/22/10/3819/pdf?version=1652859519
+R0262,10.3390/s22134926,Enhanced Anomaly Detection System for IoT Based on Improved Dynamic SBPSO,2022,https://www.mdpi.com/1424-8220/22/13/4926/pdf?version=1656512975
+R0267,10.1155/2022/6131463,Feature Selection Model Based on Gorilla Troops Optimizer for Intrusion Detection Systems,2022,https://downloads.hindawi.com/journals/js/2022/6131463.pdf
+R0268,10.58346/jowua.2024.i2.017,Feature Selection Model-based Intrusion Detection System for Cyberattacks on the Internet of Vehicles Using Cat and Mouse Optimizer,2022,
+R0269,10.1109/icecaa55415.2022.9936116,Feature Selection by Hybrid Artificial Bee Colony Algorithm for Intrusion Detection,2022,
+R0270,10.1109/aie57029.2022.00134,Feature Selection by Improved Sand Cat Swarm Optimizer for Intrusion Detection,2022,
+R0271,10.23919/eecsi56542.2022.9946621,Feature Selection using Chi Square to Improve Attack Detection Classification in IoT Network: Work in Progress,2022,
+R0275,10.1007/s41315-022-00234-2,Henry MaxNet: tversky index based feature selection and competitive swarm henry gas solubility optimization integrated Deep Maxout network for intrusion detection in IoT,2022,
+R0278,10.47839/ijc.21.4.2781,Hybrid Deep-GAN Model for Intrusion Detection in IoT Through Enhanced Whale Optimization,2022,https://computingonline.net/computing/article/view/2781/1070
+R0280,10.32604/csse.2023.031063,Hybrid Metaheuristics Feature Selection with Stacked Deep Learning-Enabled Cyber-Attack Detection Model,2022,https://file.techscience.com/ueditor/files/csse/TSP_CSSE-45-2/TSP_CSSE_31063/TSP_CSSE_31063.pdf
+R0281,10.33168/jsms.2022.0423,Hybrid Pigeon Inspired Optimizer-Gray Wolf Optimization for Network Intrusion Detection,2022,https://doi.org/10.33168/jsms.2022.0423
+R0286,10.1007/s11235-022-00927-w,Implementing attack detection system using filter-based feature selection methods for fog-enabled IoT networks,2022,
+R0287,10.32604/iasc.2023.032324,Improved Ant Colony Optimization and Machine Learning Based Ensemble Intrusion Detection Model,2022,https://file.techscience.com/ueditor/files/iasc/TSP_IASC-36-1/TSP_IASC_32324/TSP_IASC_32324.pdf
+R0296,10.1080/03772063.2022.2098187,Intrusion Detection System with an Ensemble Learning and Feature Selection Framework for IoT Networks,2022,
+R0297,10.17762/msea.v71i3s.20,Intrusion Detection Using Combination of GA Based Feature Selection and Random Forest Machine Learning Supervised Approach,2022,https://www.philstat.org.ph/special_issue/index.php/MSEA/article/download/20/20
+R0303,10.3390/app12105015,IoT Intrusion Detection Using Machine Learning with a Novel High Performing Feature Selection Method,2022,https://www.mdpi.com/2076-3417/12/10/5015/pdf?version=1652698585
+R0307,10.1109/icdsca56264.2022.9987890,IoT-Network Attack Detection with Optimized Recurrent Neural Network and Optimal Feature Selection,2022,
+R0310,10.1007/s11042-022-13836-6,MOAEOSCA: an enhanced multi-objective hybrid artificial ecosystem-based optimization with sine cosine algorithm for feature selection in botnet detection in IoT,2022,
+R0312,10.33103/uot.ijccce.22.3.2,Meerkat Clan-Based Feature Selection in Random Forest Algorithm for IoT Intrusion Detection,2022,https://ijccce.uotechnology.edu.iq/article_176792_9a67645319b1ed2522908c309185e641.pdf
+R0313,10.1007/s10586-022-03719-8,Metaheuristic feature selection with deep learning enabled cascaded recurrent neural network for anomaly detection in Industrial Internet of Things environment,2022,
+R0314,10.1111/exsy.13138,Metaheuristics with federated learning enabled intrusion detection system in Internet of Things environment,2022,
+R0317,10.1016/j.ijleo.2022.170419,Multi-objective PSO based feature selection for intrusion detection in IoT based wireless sensor networks,2022,
+R0319,10.32604/cmc.2023.033273,Network Intrusion Detection Based on Feature Selection and Hybrid Metaheuristic Optimization,2022,https://file.techscience.com/ueditor/files/cmc/TSP_CMC-74-2/TSP_CMC_33273/TSP_CMC_33273.pdf
+R0327,10.1142/s0219649222500423,Optimal Feature Selection with Weight Optimised Deep Neural Network for Incremental Learning-Based Intrusion Detection in Fog Environment,2022,
+R0333,10.3233/jifs-223166,RETRACTED: An energy efficient deep learning model for intrusion detection in smart healthcare with optimal feature selection mechanism,2022,
+R0334,10.1504/ijes.2022.129803,Random forest-based IDS for IIoT edge computing security using ensemble learning for dimensionality reduction,2022,
+R0341,10.1587/transinf.2021edp7184,SVM Based Intrusion Detection Method with Nonlinear Scaling and Feature Selection,2022,https://www.jstage.jst.go.jp/article/transinf/E105.D/5/E105.D_2021EDP7184/_pdf
+R0350,10.1109/jiot.2023.3317089,A Binary Bee Foraging Algorithm-Based Feature Selection Approach for IoT Intrusion Detection,2023,
+R0351,10.3390/app13148307,A Combined Multi-Classification Network Intrusion Detection System Based on Feature Selection and Neural Network Improvement,2023,https://www.mdpi.com/2076-3417/13/14/8307/pdf?version=1689831976
+R0356,10.1109/chilecon60335.2023.10418638,A Hybrid Approach for Many-Objective Feature Selection in Intrusion Detection on Windows Operating Systems,2023,
+R0358,10.3390/electronics12194050,A Hybrid Modified Deep Learning Architecture for Intrusion Detection System with Optimal Feature Selection,2023,https://www.mdpi.com/2079-9292/12/19/4050/pdf?version=1695798423
+R0359,10.1109/access.2023.3332902,A Hybrid Moth Flame Optimization and Golden Jackal Optimization Algorithm Based Opposition for Global Optimization Problems,2023,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10318162.pdf
+R0363,10.1109/icoac59537.2023.10249916,A New High-Performance Feature Selection Method for Machine Learning-Based IOT Intrusion Detection,2023,
+R0364,10.18280/ria.370504,A Novel CNN Model with Dimensionality Reduction for WSN Intrusion Detection,2023,https://iieta.org/download/file/fid/112359
+R0366,10.3390/app131911067,A Novel Feature Selection Approach to Classify Intrusion Attacks in Network Communications,2023,https://doi.org/10.3390/app131911067
+R0370,10.1109/iq-cchess56596.2023.10391717,A Novel Set Theory Rule based Hybrid Feature Selection Techniques for Efficient Anomaly Detection System in IoT Edge,2023,
+R0379,10.1016/j.dajour.2023.100206,A metaheuristic-based ensemble feature selection framework for cyber threat detection in IoT-enabled networks,2023,https://doi.org/10.1016/j.dajour.2023.100206
+R0382,10.1016/j.measen.2023.100700,A new deep-learning with swarm based feature selection for intelligent intrusion detection for the Internet of things,2023,https://doi.org/10.1016/j.measen.2023.100700
+R0385,10.3233/jifs-223437,A novel dimensionality reduction and optimal deep learning based intrusion detection system for internet of things,2023,
+R0386,10.3389/fcomp.2023.997159,A novel hybrid autoencoder and modified particle swarm optimization feature selection for intrusion detection in the internet of things network,2023,https://www.frontiersin.org/articles/10.3389/fcomp.2023.997159/pdf
+R0388,10.47974/jdmsc-1737,A two stage hybrid intrusion detection using genetic algorithm in IoT networks,2023,
+R0393,10.1109/iceca58529.2023.10394718,An Advanced Feature Selection Approach to Improve Intrusion Detection System using Machine Learning,2023,
+R0400,10.3390/s23104971,An Improved Mutual Information Feature Selection Technique for Intrusion Detection Systems in the Internet of Medical Things,2023,https://www.mdpi.com/1424-8220/23/10/4971/pdf?version=1684758502
+R0406,10.1007/s11042-023-14795-2,An efficient network intrusion detection model for IoT security using K-NN classifier and feature selection,2023,
+R0408,10.1016/j.adhoc.2023.103331,An ensemble learning framework for the detection of RPL attacks in IoT networks based on the genetic feature selection approach,2023,
+R0418,10.1371/journal.pone.0286652,Attentive transformer deep learning algorithm for intrusion detection on IoT systems using automatic Xplainable feature selection,2023,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0286652&type=printable
+R0420,10.1109/ssci52147.2023.10371959,"BLB-GAFS: An Efficient, Multi-Objective Genetic Algorithm Based Feature Selection Method for Intrusion Detection Systems",2023,
+R0425,10.1080/01969722.2023.2166266,Blockchain Mechanism-Based Attack Detection in IoT with Hybrid Classification and Proposed Feature Selection,2023,
+R0426,10.3390/math11081887,Blockchain-Assisted Hybrid Harris Hawks Optimization Based Deep DDoS Attack Detection in the IoT Environment,2023,https://www.mdpi.com/2227-7390/11/8/1887/pdf?version=1681633498
+R0427,10.3390/su151813887,Blockchain-Assisted Machine Learning with Hybrid Metaheuristics-Empowered Cyber Attack Detection and Classification Model,2023,https://www.mdpi.com/2071-1050/15/18/13887/pdf?version=1695087362
+R0429,10.3390/s23146507,CNN-CNN: Dual Convolutional Neural Network Approach for Feature Selection and Attack Detection on Internet of Things Networks,2023,https://www.mdpi.com/1424-8220/23/14/6507/pdf?version=1689745516
+R0431,10.1007/s11227-023-05511-w,Comparative analysis of dimensionality reduction techniques for cybersecurity in the SWaT dataset,2023,https://www.researchsquare.com/article/rs-2904250/latest.pdf
+R0432,10.1109/iccubea58933.2023.10392251,Critical Feature Selection (CFS) Techniques for Early DDoS Attack Detection in the Internet of Things Environment,2023,
+R0442,,Deep Learning-Based Rule-Based Feature Selection for Intrusion Detection in Industrial Internet of Things Networks,2023,https://ijisae.org/index.php/IJISAE/article/download/3231/1816
+R0444,10.1109/easct59475.2023.10393443,Detecting the Anomaly Attacks in Industrial IoT using Hybrid Feature Selection Based Modified Convolutional Neural Network,2023,
+R0445,10.1109/icais56108.2023.10073935,Detection of DDoS Attacks using Artificial Gorilla Troops Optimizer based Deep Learning Model,2023,
+R0449,,Dimensionality Reduction for Deep Learning Based Intrusion Detection Systems for IoT,2023,
+R0457,10.32604/iasc.2023.039718,Enhanced Metaheuristics with Machine Learning Enabled Cyberattack Detection Model,2023,https://file.techscience.com/files/iasc/2023/TSP_IASC-37-3/TSP_IASC_39718/TSP_IASC_39718.pdf
+R0459,10.3390/s23094430,Enhancing Intrusion Detection Systems for IoT and Cloud Environments Using a Growth Optimizer Algorithm and Conventional Neural Networks,2023,https://www.mdpi.com/1424-8220/23/9/4430/pdf?version=1682858917
+R0464,10.1016/j.jer.2023.100122,Enhancing intrusion detection in IoT systems: A hybrid metaheuristics-deep learning approach with ensemble of recurrent neural networks,2023,https://doi.org/10.1016/j.jer.2023.100122
+R0466,10.1109/icaccs57279.2023.10112989,Ensemble Filter-based Feature Selection Model for Cyber Attack Detection in Industrial Internet of Things,2023,
+R0470,10.1080/00051144.2023.2269646,Evaluated bird swarm optimization based on deep belief network (EBSO-DBN) classification technique for IOT network intrusion detection,2023,https://www.tandfonline.com/doi/pdf/10.1080/00051144.2023.2269646?needAccess=true
+R0473,10.3390/app13137488,FSCB-IDS: Feature Selection and Minority Class Balancing for Attacks Detection in VANETs,2023,https://www.mdpi.com/2076-3417/13/13/7488/pdf?version=1687833858
+R0474,10.1109/jiot.2023.3245153,Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things,2023,
+R0475,10.30880/jscdm.2023.04.01.006,Feature Selection of Distributed Denial of Service (DDos) IoT Bot Attack Detection Using Machine Learning Techniques,2023,https://publisher.uthm.edu.my/ojs/index.php/jscdm/article/download/13603/5731/61810
+R0476,10.1007/s13198-023-01883-7,Feature engineering based performance analysis of ML and DL algorithms for Botnet attack detection in IoMT,2023,
+R0477,10.59035/oexi6498,Feature selection using bio-inspired optimization for IoT intrusion detection and prevention system,2023,https://doi.org/10.59035/oexi6498
+R0479,10.3390/electronics12030556,Filter-Based Ensemble Feature Selection and Deep Learning Model for Intrusion Detection in Cloud Computing,2023,https://www.mdpi.com/2079-9292/12/3/556/pdf?version=1674481705
+R0480,10.1016/j.comnet.2023.109662,Fog-cloud based intrusion detection system using Recurrent Neural Networks and feature selection for IoT networks,2023,https://figshare.com/articles/journal_contribution/Fog-cloud_based_intrusion_detection_system_using_Recurrent_Neural_Networks_and_feature_selection_for_IoT_networks/22329673
+R0481,10.3390/app131910951,Generating Synthetic Dataset for ML-Based IDS Using CTGAN and Feature Selection to Protect Smart IoT Environments,2023,https://www.mdpi.com/2076-3417/13/19/10951/pdf?version=1696405900
+R0484,10.1109/skima59232.2023.10387337,Hybrid Feature Selection Based Lightweight Network Intrusion Detection System for MQTT Protocol,2023,
+R0487,10.1016/j.procs.2023.01.014,Hybrid Meta-Heuristic based Feature Selection Mechanism for Cyber-Attack Detection in IoT-enabled Networks,2023,https://doi.org/10.1016/j.procs.2023.01.014
+R0488,10.1109/access.2023.3322369,Hybrid Metaheuristics With Machine Learning Based Botnet Detection in Cloud Assisted Internet of Things Environment,2023,https://doi.org/10.1109/access.2023.3322369
+R0490,,Hybridization of Bottlenose Dolphin Optimization and Artificial Fish Swarm Algorithm with Efficient Classifier for Detecting the Network Intrusion in Internet of Things (IoT),2023,https://ijisae.org/index.php/IJISAE/article/download/3973/2623
+R0498,10.3390/app13116753,Improving Reliability for Detecting Anomalies in the MQTT Network by Applying Correlation Analysis for Feature Selection Using Machine Learning Techniques,2023,https://www.mdpi.com/2076-3417/13/11/6753/pdf?version=1685626957
+R0503,10.1186/s13677-023-00509-4,Intelligent intrusion detection framework for multi-clouds – IoT environment using swarm-based deep learning classifier,2023,https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-023-00509-4
+R0505,10.53106/199115992023103405017,Intrusion Detection Based on Feature Reduction and Model Pruning in Electricity Trading Network,2023,https://doi.org/10.53106/199115992023103405017
+R0507,10.1109/iciics59993.2023.10420977,Intrusion Detection System in IoT using Grey Wolf Optimization-Based Support Vector Machine,2023,
+R0509,10.1109/aikiie60097.2023.10389848,Intrusion Detection in IoT Platform Using Tuna Swarm Optimization with Long Short-Term Memory,2023,
+R0513,10.1002/for.3037,Intrusion detection system using metaheuristic fireworks optimization based feature selection with deep learning on Internet of Things environment,2023,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/for.3037
+R0533,10.1111/exsy.13293,Machine learning tuning by diversity oriented firefly metaheuristics for Industry 4.0,2023,
+R0534,10.1007/s10586-023-04089-5,Machine learning-based intrusion detection: feature selection versus feature extraction,2023,https://arxiv.org/pdf/2307.01570
+R0538,10.1109/access.2023.3299589,Modeling of Blockchain Assisted Intrusion Detection on IoT Healthcare System Using Ant Lion Optimizer With Hybrid Deep Learning,2023,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10196386.pdf
+R0541,10.3390/s23177434,Multi-Criteria Feature Selection Based Intrusion Detection for Internet of Things Big Data,2023,https://www.mdpi.com/1424-8220/23/17/7434/pdf?version=1693217267
+R0542,10.17762/ijritcc.v11i2s.6035,Network Intrusion Detection Method Using Stacked BILSTM Elastic Regression Classifier with Aquila Optimizer Algorithm for Internet of Things (IoT),2023,https://ijritcc.org/index.php/ijritcc/article/download/6035/5655
+R0544,10.46544/ams.v28i2.18,Oppositional Coyote Optimization based Feature Selection with Deep Learning Model for Intrusion Detection in Fog-Assisted Wireless Sensor Network,2023,https://doi.org/10.46544/ams.v28i2.18
+R0555,10.32604/iasc.2023.036856,Performance Analysis of Intrusion Detection System in the IoT Environment Using Feature Selection Technique,2023,https://www.techscience.com/iasc/v36n3/51950/pdf
+R0562,10.3390/jsan12050067,Recursive Feature Elimination with Cross-Validation with Decision Tree: Feature Selection Method for Machine Learning-Based Intrusion Detection Systems,2023,https://www.mdpi.com/2224-2708/12/5/67/pdf?version=1695030357
+R0563,10.1109/access.2023.3335124,Red Kite Optimization Algorithm With Average Ensemble Model for Intrusion Detection for Secure IoT,2023,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10323403.pdf
+R0566,10.17559/tv-20230130000295,Seagull Optimization-based Feature Selection with Optimal Extreme Learning Machine for Intrusion Detection in Fog Assisted WSN,2023,https://hrcak.srce.hr/file/444201
+R0571,10.1063/5.0128884,Statistical feature selection based intrusion detection system for internet of things environment,2023,
+R0577,10.3390/electronics12051260,Towards Effective Feature Selection for IoT Botnet Attack Detection Using a Genetic Algorithm,2023,https://www.mdpi.com/2079-9292/12/5/1260/pdf?version=1678158879
+R0591,10.1109/icees61253.2024.10776873,A Comparative Study on the Impacts of Data Leakage During Feature Selection using the CIC-IoT 2023 Intrusion Detection Dataset,2024,
+R0596,10.1109/inc460750.2024.10649035,A Feature Selection Study on the Bot-IoT Dataset Using Ensemble Classification Techniques,2024,
+R0597,10.1002/nem.2291,A Generalized Lightweight Intrusion Detection Model With Unified Feature Selection for Internet of Things Networks,2024,
+R0598,10.1109/access.2024.3367357,A Genetic Algorithm- and t-Test-Based System for DDoS Attack Detection in IoT Networks,2024,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10440087.pdf
+R0600,10.1109/itc-egypt61547.2024.10620456,A Hybrid Feature Selection Model for Anomaly-Based Intrusion Detection in IoT Networks,2024,
+R0604,10.1109/access.2024.3519132,A Metaheuristic Approach to Detecting and Mitigating DDoS Attacks in Blockchain-Integrated Deep Learning Models for IoT Applications,2024,https://doi.org/10.1109/access.2024.3519132
+R0609,10.1155/2024/5522431,A Novel Hybrid Feature Selection with Cascaded LSTM: Enhancing Security in IoT Networks,2024,https://downloads.hindawi.com/journals/wcmc/2024/5522431.pdf
+R0619,,A Two-Phase Feature Selection Technique using Information Gain and XGBoost-RFE for NIDS,2024,https://ijisae.org/index.php/IJISAE/article/download/4595/3265
+R0624,10.1007/s11227-024-06409-x,A hybrid approach for efficient feature selection in anomaly intrusion detection for IoT networks,2024,https://link.springer.com/content/pdf/10.1007/s11227-024-06409-x.pdf
+R0632,10.1007/s10207-023-00803-x,A voting gray wolf optimizer-based ensemble learning models for intrusion detection in the Internet of Things,2024,https://doi.org/10.1007/s10207-023-00803-x
+R0637,10.22266/ijies2024.1231.61,Adaptive Inertia Weight with Transient Search Optimization Based Feature Selection for Intrusion Detection in Internet of Things,2024,https://doi.org/10.22266/ijies2024.1231.61
+R0642,10.1109/icdscnc62492.2024.10939887,Advanced Security for IoT Networks: A Novel Approach to Intrusion Detection and Feature Selection,2024,
+R0643,10.54216/jcim.150208,Advanced Threat Detection in Cyber-Physical Systems using Lemurs Optimization Algorithm with Deep Learning,2024,
+R0650,10.1109/ihcsp63227.2024.10960043,An Effective Design of Intrusion Detection System With Classification Algorithms And Feature Reduction In Machine Learning,2024,
+R0651,10.1504/ijcnds.2025.10062282,An Efficient Attack Detection Approach for Software Defined Internet of Things using Jaya Optimization based Feature Selection Technique,2024,https://doi.org/10.1504/ijcnds.2025.10062282
+R0653,10.5755/j01.itc.53.1.34933,An Efficient Deep Learningbased Intrusion Detection System for Internet of Things Networks with Hybrid Feature Reduction and Data Balancing Techniques,2024,https://itc.ktu.lt/index.php/ITC/article/download/34933/16332
+R0661,10.1109/ojcoms.2024.3421647,An Improved Binary Spider Wasp Optimization Algorithm for Intrusion Detection for Industrial Internet of Things,2024,https://doi.org/10.1109/ojcoms.2024.3421647
+R0665,10.1007/s42235-024-00575-7,An Intrusion Detection System on The Internet of Things Using Deep Learning and Multi-objective Enhanced Gorilla Troops Optimizer,2024,https://link.springer.com/content/pdf/10.1007/s42235-024-00575-7.pdf
+R0672,10.1002/itl2.564,An amalgamated correlation and regression based feature selection with ensemble learning approach for IoT network attack detection,2024,
+R0674,10.1504/ijcnds.2025.142985,An efficient attack detection approach for software defined Internet of Things using Jaya optimisation based feature selection technique,2024,
+R0683,10.47974/jsms-1303,An intrusion detection system for industrial IoT using chi-square feature selection,2024,
+R0684,10.3233/jifs-235529,An optimal secure defense mechanism for DDoS attack in IoT network using feature optimization and intrusion detection system,2024,
+R0688,10.1002/ett.70026,Anomaly Detection in IoT Network Traffic Using Bidirectional 3D Quasi‐Recurrent Neural Network Optimize With Coati Optimization Algorithm,2024,
+R0691,10.1109/ickecs61492.2024.10616777,Aquila Optimization Algorithm based Feature Selection with Optimal Machine Learning for Security Internet of Things Environment,2024,
+R0694,10.1007/s10922-024-09871-3,Attack Detection in IoT Network Using Support Vector Machine and Improved Feature Selection Technique,2024,
+R0695,10.1038/s41598-024-81162-y,Augmenting cybersecurity through attention based stacked autoencoder with optimization algorithm for detection and mitigation of attacks on IoT assisted networks,2024,https://www.nature.com/articles/s41598-024-81162-y.pdf
+R0705,10.1002/ett.4961,Coarse and fine feature selection for Network Intrusion Detection Systems ( IDS ) in IoT networks,2024,
+R0707,10.1016/j.iswa.2024.200462,Computationally Efficient Deep Federated Learning with Optimized Feature Selection for IoT Botnet Attack Detection,2024,https://doi.org/10.1016/j.iswa.2024.200462
+R0712,10.1109/icoin59985.2024.10572083,D-ACO/GA - A bio-inspired strategy for feature selection in anomaly traffic detection in smart Internet of Things environments,2024,
+R0715,10.1109/access.2024.3405628,DL-ADS: Improved Grey Wolf Optimization Enabled AE-LSTM Technique for Efficient Network Anomaly Detection in Internet of Thing Edge Computing,2024,https://doi.org/10.1109/access.2024.3405628
+R0717,10.1109/temscon-aspac62480.2024.11024889,Deep CNN-Based IoT Attack Detection with Granger Causality Feature Selection in 6G Networks,2024,
+R0719,10.14445/23488549/ijece-v11i8p119,Deep Learning Model with Normalized Bayesian Optimizer for Anomaly Classification in IoT Security,2024,https://www.internationaljournalssrg.org/../IJECE/2024/Volume11-Issue8/IJECE-V11I8P119.pdf
+R0723,10.1016/j.ijin.2024.11.001,Designing a novel network anomaly detection framework using multi-serial stacked network with optimal feature selection procedures over DDOS attacks,2024,https://doi.org/10.1016/j.ijin.2024.11.001
+R0724,10.21275/sr241107015558,Detection and Prevention of Distributed Denial of Service (DDoS) Attacks using Metaheuristic and Machine Learning Techniques,2024,https://doi.org/10.21275/sr241107015558
+R0727,10.1016/j.kjs.2024.100222,Developing a hybrid feature selection method to detect botnet attacks in IoT devices,2024,https://doi.org/10.1016/j.kjs.2024.100222
+R0729,10.1016/j.eswa.2024.126149,Dimensionality reduction with deep learning classification for botnet detection in the Internet of Things,2024,
+R0731,10.1109/icait61638.2024.10690842,DoS Attack Detection Using Feature Selection with Information Gain and ML Classification,2024,
+R0732,10.1016/j.future.2024.05.013,ELIDS: Ensemble Feature Selection for Lightweight IDS against DDoS Attacks in Resource-Constrained IoT Environment,2024,
+R0735,10.3390/s24061782,Effective Feature Engineering Framework for Securing MQTT Protocol in IoT Environments,2024,https://www.mdpi.com/1424-8220/24/6/1782/pdf?version=1710054573
+R0736,10.1109/icraset63057.2024.10895240,Effective IOT Attack Detection with Optimal Feature Selection and Random Forest: Performance Enhancement using Spider Monkey Optimization,2024,
+R0737,10.1109/wincom62286.2024.10658099,Efficient Intrusion Detection: Combining X2 Feature Selection with CNN-BiLSTM on the UNSW-NB15 Dataset,2024,
+R0740,10.1007/s13369-024-08949-z,Empirical Enhancement of Intrusion Detection Systems: A Comprehensive Approach with Genetic Algorithm-based Hyperparameter Tuning and Hybrid Feature Selection,2024,https://link.springer.com/content/pdf/10.1007/s13369-024-08949-z.pdf
+R0741,10.1016/j.iot.2024.101367,Empirical evaluation of feature selection methods for machine learning based intrusion detection in IoT scenarios,2024,https://doi.org/10.1016/j.iot.2024.101367
+R0743,10.37391/ijeer.120206,Empowering Smart City IoT Network Intrusion Detection with Advanced Ensemble Learning-based Feature Selection,2024,http://dx.doi.org/10.37391/ijeer.120206
+R0745,10.1109/access.2024.3436088,Enhanced Abnormality Detection via PSO-Driven Adaptive Ensemble Weighting for Energy AIoT Device Security,2024,https://doi.org/10.1109/access.2024.3436088
+R0752,10.3390/app14020479,"Enhanced Intrusion Detection with LSTM-Based Model, Feature Selection, and SMOTE for Imbalanced Data",2024,https://www.mdpi.com/2076-3417/14/2/479/pdf?version=1704446381
+R0760,10.1109/ispa63168.2024.00293,Enhancing Feature Selection in IoT Intrusion Detection Using the Ensemble Stacking,2024,
+R0762,10.3390/app142411966,Enhancing IoT Network Security Using Feature Selection for Intrusion Detection Systems,2024,https://www.mdpi.com/2076-3417/14/24/11966/pdf?version=1734706700
+R0765,10.1109/giis59465.2024.10449909,Enhancing IoT Security Through Resource-Efficient Feature Engineering,2024,
+R0766,10.3390/app14219848,Enhancing IoT Security Using GA-HDLAD: A Hybrid Deep Learning Approach for Anomaly Detection,2024,https://doi.org/10.3390/app14219848
+R0768,10.1007/s43926-024-00074-5,Enhancing IoT intrusion detection through machine learning with AN-SFS: a novel approach to high performing adaptive feature selection,2024,https://link.springer.com/content/pdf/10.1007/s43926-024-00074-5.pdf
+R0769,10.1016/j.iswa.2024.200407,Enhancing IoT security: A comparative study of feature reduction techniques for intrusion detection system,2024,https://doi.org/10.1016/j.iswa.2024.200407
+R0770,10.1109/jiot.2024.3452421,Enhancing Malicious Activity Detection in IoT-Enabled Network and IoMT Systems Through Meta-Heuristic Optimization and Machine Learning,2024,
+R0775,10.1109/access.2024.3481459,Enhancing Security in Industrial IoT Networks: Machine Learning Solutions for Feature Selection and Reduction,2024,https://doi.org/10.1109/access.2024.3481459
+R0776,10.1109/access.2024.3392618,Enhancing Security in IoT-Assisted UAV Networks Using Adaptive Mongoose Optimization Algorithm With Deep Learning,2024,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10506908.pdf
+R0777,10.1007/s41870-024-02219-9,Enhancing energy efficiency and imbalance handling in botnet detection in IoT networks: a multi-stage feature reduction and weighted approach,2024,
+R0779,10.1080/21642583.2024.2321381,Enhancing intrusion detection in IoT networks using machine learning-based feature selection and ensemble models,2024,https://www.tandfonline.com/doi/pdf/10.1080/21642583.2024.2321381?download=true
+R0783,10.1109/fortei-icee64706.2024.10824638,Enhancing the Detection of Botnet Attacks in the Internet of Things Networks Through the Utilization of Hybrid Feature Selection,2024,
+R0784,10.1109/ivit62102.2024.10692650,Ensemble Feature Selection based Lightweight IDS Tailored for DDoS Attacks Detection over IoT Devices,2024,
+R0789,10.15837/ijccc.2024.5.6767,Evaluating Dimensionality Reduction Methods for the Detection of Industrial IoT Attacks in Edge Computing,2024,https://doi.org/10.15837/ijccc.2024.5.6767
+R0793,10.3390/s24165223,Explainable Deep Learning-Based Feature Selection and Intrusion Detection Method on the Internet of Things,2024,https://www.mdpi.com/1424-8220/24/16/5223/pdf?version=1723628989
+R0797,10.22214/ijraset.2024.65236,Feature Selection and Classification for Anomaly Detection in IoT Networks using Multi-layer Perceptron - Chaotic Ant Lion Optimization (MLP-CALO) Algorithm,2024,http://dx.doi.org/10.22214/ijraset.2024.65236
+R0798,10.18494/sam4666,Feature Selection for Malicious Detection on Industrial IoT Using Machine Learning,2024,https://sensors.myu-group.co.jp/sm_pdf/SM3579.pdf
+R0799,10.1109/comnetsat63286.2024.10862350,Feature Selection versus Feature Extraction Models for IoT Intrusion Detection System Using Convolutional Neural Network,2024,
+R0800,10.1016/j.compeleceng.2024.109984,Feature selection and hybrid CNNF deep stacked autoencoder for botnet attack detection in IoT,2024,
+R0802,10.1016/j.procs.2024.09.193,Federated Random Forest with Feature Selection for Collaborative Intrusion Detection in Internet of Things,2024,https://doi.org/10.1016/j.procs.2024.09.193
+R0804,10.1109/icraset63057.2024.10895679,Fortifying Smart City IoT Networks: A Deep Learning-Based Attack Detection Framework with Optimized Feature Selection Using MGS-ROA,2024,
+R0809,10.52783/anvi.v27.1346,Fuzzy Similarity Fusion based Feature Selection and Optimization Enabled Deep Learning for Intrusion Detection in WSN,2024,http://dx.doi.org/10.52783/anvi.v27.1346
+R0810,10.1109/atc63255.2024.10908143,GAT-SFFS: A Novel Feature Selection Method Using Graph Attention Networks and Sequential Forward Approach for Machine Learning-Based IoT Intrusion Detection System,2024,
+R0811,10.1109/otcon60325.2024.10687851,Genetic Algorithms-based Feature Selection (GAFS-IDS) for Attack Detection in the Internet of Medical Things Network,2024,
+R0814,10.1007/s11227-024-06453-7,HADTF: a hybrid autoencoder–decision tree framework for improved RPL-based attack detection in IoT networks based on enhanced feature selection approach,2024,
+R0817,10.14569/ijacsa.2024.0150166,Healthcare Intrusion Detection using Hybrid Correlation-based Feature Selection-Bat Optimization Algorithm with Convolutional Neural Network,2024,http://thesai.org/Downloads/Volume15No1/Paper_66-Healthcare_Intrusion_Detection_using_Hybrid_Correlation.pdf
+R0821,10.17485/ijst/v17i30.1794,Hybrid Enhanced Intrusion Detection Frameworks for Cyber-Physical Systems via Optimal Features Selection,2024,https://doi.org/10.17485/ijst/v17i30.1794
+R0822,,Hybrid Feature Selection and Classification using RF-DNN for Anomaly Detection in IoT-WSN,2024,https://ijisae.org/index.php/IJISAE/article/download/4452/3110
+R0823,10.1109/access.2024.3468897,Hybrid MRMR-PCA BagDT—An Effective Feature Selection Based Ensemble Model for Real-Time Intrusion Detection in IoT Environment,2024,https://doi.org/10.1109/access.2024.3468897
+R0825,10.1371/journal.pone.0308206,Hybrid evolutionary machine learning model for advanced intrusion detection architecture for cyber threat identification,2024,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0308206&type=printable
+R0828,10.1186/s40537-024-00887-9,Hybrid wrapper feature selection method based on genetic algorithm and extreme learning machine for intrusion detection,2024,https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-024-00887-9
+R0834,10.1109/access.2024.3372859,Improved Crow Search-Based Feature Selection and Ensemble Learning for IoT Intrusion Detection,2024,https://ieeexplore.ieee.org/ielx7/6287639/6514899/10458125.pdf
+R0836,10.1504/ijdmmm.2024.10060965,Improving Intrusion Detection in the IoT with African Vultures Optimization Algorithm-Based Feature Selection,2024,
+R0837,10.1109/inocon60754.2024.10511883,Improving IoT Botnet Attack Detection using Machine Learning: Comparative Analysis of Feature Selection Methods and Classifiers in Intrusion Detection Systems,2024,
+R0838,10.1504/ijdmmm.2024.140529,Improving intrusion detection in the IoT with African vultures optimisation algorithm-based feature selection,2024,
+R0840,10.1007/s13369-024-09663-6,Integrated Genetic Algorithm and Deep Learning Approach for Effective Cyber-Attack Detection and Classification in Industrial Internet of Things (IIoT) Environments,2024,https://link.springer.com/content/pdf/10.1007/s13369-024-09663-6.pdf
+R0844,10.1109/iciestr60916.2024.10798158,Interpretable Machine Learning for IoT Security: Feature Selection and Explainability in Botnet Intrusion Detection using Extra Trees Classifier,2024,
+R0845,10.22266/ijies2024.1231.10,Intrusion Detection System Using Adaptive Learning Factor Based Sandpiper Optimization Algorithm and Bi-Directional Gated Recurrent Unit,2024,https://doi.org/10.22266/ijies2024.1231.10
+R0846,10.15866/irecap.v14i2.24944,Intrusion Detection System Using Hybrid Machine Learning Classifiers and Optimum Feature Selection in Internet of Things (IoT),2024,
+R0850,10.1109/nmitcon62075.2024.10698962,Intrusion Detection in Industrial Internet of Things Based on Recurrent Rule-Based Feature Selection,2024,
+R0853,10.48084/etasr.8268,Intrusion Detection in IoT using Gaussian Fuzzy Mutual Information-based Feature Selection,2024,https://doi.org/10.48084/etasr.8268
+R0855,10.23940/ijpe.24.11.p1.649657,Intrusion Detection with Ant Colony Optimization Based Feature Selection and XGboost Classifier,2024,https://www.ijpe-online.com/EN/article/downloadArticleFile.do?attachType=PDF&id=4895
+R0858,10.23919/jcc.fa.2022-0076.202409,Intrusion detection system using classification algorithms with feature selection mechanism over real-time data traffic,2024,https://www.researchsquare.com/article/rs-1263595/latest.pdf
+R0859,10.1109/raics61201.2024.10689827,IoT Attack Detection:Using Feature Selection and Machine Learning Algorithms,2024,
+R0861,10.5121/ijcnc.2024.16202,IoT Guardian: A Novel Feature Discovery and Cooperative Game Theory Empowered Feature Selection with ML Model for IoT Threats & Attack Detection,2024,https://doi.org/10.5121/ijcnc.2024.16202
+R0868,10.1038/s41598-024-69968-2,Large-scale IoT attack detection scheme based on LightGBM and feature selection using an improved salp swarm algorithm,2024,https://doi.org/10.1038/s41598-024-69968-2
+R0869,10.1109/acit62333.2024.10712556,Latent Semantic Analysis for Feature Selection: A Proposed Approach for Anomaly Detection in Network Traffic,2024,
+R0870,10.1109/iccubea61740.2024.10774813,Leveraging Metaheuristic Algorithms for Optimal Feature Selection in IoT Cybersecurity: A Study on Enhancing DDoS Attack Detection,2024,
+R0871,,Levy Flight – Pelican Optimization Algorithm Based Refined Long Short-Term Memory for Network Intrusion Detection System,2024,https://ijisae.org/index.php/IJISAE/article/download/5250/3975
+R0872,10.1109/icce-asia63397.2024.10773822,Lightweight Genetic Algorithms and RandomForest Based IoT Intrusion Detection,2024,
+R0876,10.1109/nigercon62786.2024.10927398,MLCFSM: Multi-Layer Common Feature Selection Methods for Robust Intrusion Detection in IoT Network,2024,
+R0882,10.46253/jnacs.v7i4.a4,Mahalanobis City Block distance-rider Optimization Algorithm-Based Neural Network enabled intrusion detection in the Internet of Things,2024,https://publisher.resbee.org/jnacs/archive/v7i4/a4/p4.pdf
+R0884,10.1109/icdcece60827.2024.10549401,Mayfly Optimization Algorithm with Bidirectional Long-Short Term Memory for Intrusion Detection System in Internet of Things,2024,
+R0885,10.33545/2707661x.2024.v5.i1b.82,Minimizing time complexity for IOT-IDS based feature selection approach,2024,https://www.computersciencejournals.com/ijcit/article/82/5-1-13-165.pdf
+R0886,,Mitigating Generic Attacks for Intrusion Detection System Based on CGAN and FIPSO Using UNSW-NB 15 Dataset,2024,https://ijisae.org/index.php/IJISAE/article/download/5761/5318
+R0889,10.1590/1678-4324-2024231010,Modeling of Intrusion Detection System Using Double Adaptive Weighting Arithmetic Optimization Algorithm with Deep Learning on Internet of Things Environment,2024,https://www.scielo.br/j/babt/a/DHFmyYKsQwpjwYQC57zVmSM/?lang=en&format=pdf
+R0891,10.32604/cmes.2024.052637,Multi-Binary Classifiers Using Optimal Feature Selection for Memory-Saving Intrusion Detection Systems,2024,https://doi.org/10.32604/cmes.2024.052637
+R0892,10.1007/978-981-96-1531-5_33,Multi-class Attack Detection in IoT Using Dimensionality Reduction with Stacked Autoencoders and Classification with Long Short-Term Memory Networks,2024,
+R0893,10.1109/iccpct61902.2024.10672700,Multiagent Reinforcement Learning for Efficient Cyber Attack Detection on the Internet of Medical Things using tSNE- ZOA based Dimensionality Reduction,2024,
+R0894,10.1109/icebe62490.2024.00017,Multiclass Feature Selection Model for Adversarial Attacks in IoT Environment,2024,
+R0895,10.1007/978-3-031-60221-4_13,Multiclass Intrusion Detection in IoT Using Boosting and Feature Selection,2024,
+R0896,,Multiple-Input Auto-Encoder Guided Feature Selection for IoT Intrusion Detection Systems,2024,
+R0899,10.1002/itl2.516,Multi‐objective prairie dog optimization algorithm for IoT ‐based intrusion detection,2024,
+R0902,10.1109/gccit63234.2024.10862616,Network Intrusion Detection System for Smart Environments with High performing Novel Feature Selection Approach,2024,
+R0903,10.1002/spy2.429,Network intrusion detection system for IoT security using machine learning and statistical based hybrid feature selection,2024,
+R0905,10.26599/tst.2023.9010032,Novel Framework for an Intrusion Detection System Using Multiple Feature Selection Methods Based on Deep Learning,2024,https://ieeexplore.ieee.org/ielx7/5971803/10431706/10431760.pdf
+R0909,10.1109/wpmc63271.2024.10863747,Optimized Cyber Attack Detection in IoT Networks Using Feature Selection and LightGBM,2024,
+R0914,10.1007/s10207-024-00855-7,Optimized common features selection and deep-autoencoder (OCFSDA) for lightweight intrusion detection in Internet of things,2024,https://link.springer.com/content/pdf/10.1007/s10207-024-00855-7.pdf
+R0915,10.1371/journal.pone.0304082,Optimized intrusion detection in IoT and fog computing using ensemble learning and advanced feature selection,2024,https://doi.org/10.1371/journal.pone.0304082
+R0916,10.61944/bids.v3i2.104,Optimizing Autoencoder-Based Feature Selection for Attack Detection in IoT Networks via Machine Learning Approaches,2024,https://ejurnal.pdsi.or.id/index.php/bids/article/download/104/64
+R0917,10.1109/discover62353.2024.10750583,Optimizing Botnet Detection in IoT Networks: Feature Selection Analysis on the UNSW-NB15 Dataset,2024,
+R0918,10.1109/gcwkshp64532.2024.11101221,Optimizing CNN for IoT Anomaly Detection in 6G using Ant Lion Optimizer and Slime Mould Algorithm,2024,
+R0919,10.18280/ijsse.140624,Optimizing Feature Selection for Intrusion Detection: A Hybrid Approach Using Cuckoo Search and Particle Swarm Optimization,2024,https://www.iieta.org/download/file/fid/153128
+R0920,10.1109/commnet63022.2024.10793384,Optimizing Feature Selection for IoT Intrusion Detection: A Hybrid Bio-Inspired Method,2024,
+R0921,10.22266/ijies2025.0229.04,Optimizing Intrusion Detection in Edge Computing Network: A Hybrid ML Approach with Recursive Feature Elimination,2024,https://doi.org/10.22266/ijies2025.0229.04
+R0922,10.22266/ijies2025.0229.44,Optimizing Intrusion Detection in IoT through a Combination of Feature Selection and Deep Feedforward Neural Network,2024,https://doi.org/10.22266/ijies2025.0229.44
+R0923,10.3390/s24134293,"Optimizing IoT Intrusion Detection Using Balanced Class Distribution, Feature Selection, and Ensemble Machine Learning Techniques",2024,https://doi.org/10.3390/s24134293
+R0924,10.1186/s40537-024-00892-y,Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning,2024,https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-024-00892-y
+R0925,10.11591/ijece.v14i5.pp5652-5671,Optimizing intrusion detection in 5G networks using dimensionality reduction techniques,2024,https://ijece.iaescore.com/index.php/IJECE/article/download/36300/17702
+R0927,10.1109/isense63713.2024.10872173,Particle Swarm Optimization (PSO) Based Feature Selection for DDOS Attack Detection in IOT,2024,
+R0931,10.11591/ijeecs.v33.i2.pp1140-1149,Proposed algorithm base optimisation plan for feature selection-based intrusion detection in cloud computing,2024,https://doi.org/10.11591/ijeecs.v33.i2.pp1140-1149
+R0932,10.11591/ijaas.v13.i1.pp24-32,Proposed algorithm base optimization scheme for intrusion detection using feature selection,2024,https://ijaas.iaescore.com/index.php/IJAAS/article/download/20895/13075
+R0934,10.1117/12.3013539,Quantum machine learning for feature selection in Internet of Things network intrusion detection,2024,
+R0938,10.1109/ipccc59868.2024.10850338,RecoSelector: Cost-Sensitive Feature Selection for Network Intrusion Detection in Resource-Constrained Internet of Things,2024,
+R0947,10.1109/icraset63057.2024.10895898,Securing IoT Environments from Botnets: An Advanced Intrusion Detection Framework Using TJO-Based Feature Selection an d Tree Growth Algorithm-Enhanced LSTM,2024,
+R0949,10.1080/0952813x.2024.2342858,Securing IoT network with hybrid evolutionary lion intrusion detection system: a composite motion optimisation algorithm for feature selection and ensemble classification,2024,
+R0951,10.1007/s12083-024-01721-y,Securing IoT networks: A robust intrusion detection system leveraging feature selection and LGBM,2024,
+R0954,10.1109/ocit65031.2024.00098,Sin-Cos Fusion-Based African Vulture Optimization Algorithm for Feature Selection in Detecting DDoS Attack in IoT Networks,2024,
+R0959,10.3390/su16146219,Sustainable IoT Security in Entrepreneurship: Leveraging Univariate Feature Selection and Deep CNN Model for Innovation and Knowledge,2024,https://doi.org/10.3390/su16146219
+R0967,10.58346/jisis.2024.i2.004,Towards Robust IDSs: An Integrated Approach of Hybrid Feature Selection and Machine Learning,2024,https://doi.org/10.58346/jisis.2024.i2.004
+R0968,10.1109/esmarta62850.2024.10638838,Towards a Lightweight Detection System Leveraging Ranking Techniques with Wrapper Feature Selection Algorithm for Selective Forwarding Attacks in Low power and Lossy Networks of IoTs,2024,
+R0972,10.3390/electronics13091678,Using Feature Selection Enhancement to Evaluate Attack Detection in the Internet of Things Environment,2024,https://www.mdpi.com/2079-9292/13/9/1678/pdf?version=1714126105
+R0975,10.1109/icicnis64247.2024.10823207,Wrapper-based Feature Selection for Enhanced Intrusion Detection Using Random Forest Classification,2024,
+R0979,10.48084/etasr.13349,A Blockchain-Enabled IoT Framework for Secure Attack Detection and Advanced Feature Selection in Smart Healthcare,2025,https://etasr.com/index.php/ETASR/article/download/13349/5717
+R0982,10.1109/access.2025.3532895,A Comprehensive Approach to Intrusion Detection in IoT Environments Using Hybrid Feature Selection and Multi-Stage Classification Techniques,2025,https://doi.org/10.1109/access.2025.3532895
+R0983,10.1109/iscs69371.2025.11386384,A Comprehensive Benchmark of Resampling and Feature Selection for Imbalanced IoT Intrusion Detection on the CICIoT2023 Dataset,2025,
+R0989,10.1109/icoicc64033.2025.11052031,A Deep Learning Approach for Securing Medical IoT via SMA-based Feature Selection and SWA-CNN,2025,
+R0990,10.1109/aicps66617.2025.11513473,A Deep Neural Network-Based Intrusion Detection System for IoT Networks Using Feature Selection and Multi-Class Classification,2025,
+R0992,10.1109/iccwamtip68645.2025.11352681,A Dynamic Feature Engineering Framework For Unsupervised Anomaly Detection in Embedded System Call Traces,2025,
+R0994,10.1109/wccest66994.2025.11389871,A Fog-Enabled Ensemble Intrusion Detection Framework with SMOTE-Based Feature Engineering for Securing IoT in Smart Cities,2025,
+R0995,10.56042/jsir.v84i1.11616,A Genetic Algorithm based Feature Selection and CNN based Ensemble Model for Intrusion Detection in IoT Smart Environments,2025,https://or.niscpr.res.in/index.php/JSIR/article/download/11616/3836
+R0998,10.1109/iccr67387.2025.11291908,A Hierarchical Cluster-Based Lightweight Adaptive Intrusion Detection Model with Dynamic Feature Selection (HCID-DFS) for IoT Security,2025,
+R1000,10.71822/mjtd.2025.1211694,A Hybrid Approach for Intrusion Detection in the Internet of Things Using Harris Hawks Optimization and Deep Learning Algorithms,2025,https://doi.org/10.71822/mjtd.2025.1211694
+R1002,10.1109/dicct64131.2025.10986689,A Hybrid Approach to Feature Selection for Cyber Threat Detection in IoT Networks,2025,
+R1005,10.1109/niles68063.2025.11232318,A Hybrid Ensemble-Based Intrusion Detection System for IoT Using Feature Optimization and Class Balancing,2025,
+R1012,10.1109/access.2025.3630753,A Hybrid Lightweight Deep Learning-Based Intrusion Detection Approach in IoT Utilizing Feature Selection & Explainable Artificial Intelligence,2025,https://doi.org/10.1109/access.2025.3630753
+R1031,10.47974/jios-1960,A Novel DDoS detection framework leveraging hybrid binary grey wolf optimization and explainable AI,2025,
+R1032,10.1002/spy2.70166,A Novel Dual‐Path Feature Engineering Framework for Scalable and Accurate Intrusion Detection,2025,
+R1034,10.1007/s44196-025-00774-y,A Novel Hybrid Method Using Grey Wolf Algorithm and Genetic Algorithm for IoT Botnet DDoS Attacks Detection,2025,https://doi.org/10.1007/s44196-025-00774-y
+R1044,10.1109/icicacs65178.2025.10968653,A Scalable Framework for Attack Detection: SWIM Transformer with Feature Optimization and Class Balancing,2025,
+R1045,10.4108/eetiot.10283,A Scalable Hybrid RF-BiLSTM Framework for Reliable IoT Traffic Threat Detection via Feature Selection and Temporal Pattern Recognition,2025,https://publications.eai.eu/index.php/IoT/article/download/10283/3793
+R1046,10.1109/wimob66857.2025.11257512,A Scalable and Efficient Intrusion Detection System Based on a Shapley Value Driven Feature Selection,2025,
+R1049,10.3390/math13152522,A Swarm-Based Multi-Objective Framework for Lightweight and Real-Time IoT Intrusion Detection,2025,https://www.mdpi.com/2227-7390/13/15/2522/pdf?version=1754464458
+R1052,10.1016/j.iot.2025.101536,A crossover-integrated Marine Predator Algorithm for feature selection in intrusion detection systems within IoT environments,2025,
+R1055,10.1371/journal.pone.0312752,A hybrid approach for intrusion detection in vehicular networks using feature selection and dimensionality reduction with optimized deep learning,2025,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0312752&type=printable
+R1056,10.1117/12.3059969,A hybrid feature selection method based on novel binary emperor penguin optimization for IoT intrusion detection system,2025,
+R1057,10.1177/09266801251338138,A hybrid firefly-based attribute selection and split-point mechanism for securing software-defined industrial Internet of Things,2025,
+R1059,10.1038/s41598-025-87028-1,A hybrid machine learning model for intrusion detection in wireless sensor networks leveraging data balancing and dimensionality reduction,2025,https://www.nature.com/articles/s41598-025-87028-1.pdf
+R1061,10.3934/electreng.2025017,A lightweight IoT intrusion detection method based on two-stage feature selection and Bayesian optimization,2025,http://www.aimspress.com/aimspress-data/electreng/2025/3/PDF/electreng-09-03-017.pdf
+R1062,10.1016/j.iot.2025.101624,A lightweight hybrid approach for intrusion detection systems using a chi-square feature selection approach in IoT,2025,
+R1065,10.1007/s10791-025-09632-z,A multi-level intrusion detection system for industrial IoT using bowerbird courtship-inspired feature selection and hybrid data balancing,2025,https://link.springer.com/content/pdf/10.1007/s10791-025-09632-z.pdf
+R1068,10.1186/s13677-025-00785-2,A novel IoT threat detection using GWO feature selection and CNN-enhanced LightGBM,2025,https://link.springer.com/content/pdf/10.1186/s13677-025-00785-2.pdf
+R1070,10.1016/j.aej.2025.01.042,A novel feature selection-driven ensemble learning approach for accurate botnet attack detection,2025,https://doi.org/10.1016/j.aej.2025.01.042
+R1071,10.1016/j.fraope.2025.100461,A novel framework for intrusion detection in IOT networks using hybrid optimization algorithm and convolutional neural networks,2025,https://doi.org/10.1016/j.fraope.2025.100461
+R1075,10.1016/j.rineng.2025.107392,A resilient IoT intrusion detection system using hybrid feature selection and explainable ensemble learning,2025,https://doi.org/10.1016/j.rineng.2025.107392
+R1080,10.1038/s41598-025-85878-3,A two-tier optimization strategy for feature selection in robust adversarial attack mitigation on internet of things network security,2025,https://www.nature.com/articles/s41598-025-85878-3.pdf
+R1083,10.1007/s10115-025-02540-0,A2N-SFS: an advanced statistical adaptive feature selection method for enhancing intrusion detection systems in IoT systems,2025,
+R1084,10.1007/s11227-025-07292-w,ABIDS-VEM: leveraging an equilibrium optimizer and data ramification in association with ensemble learning for anomaly-based intrusion detection system,2025,https://link.springer.com/content/pdf/10.1007/s11227-025-07292-w.pdf
+R1097,10.12732/ijam.v38i5s.356,AN APPLIED MATHEMATICAL FRAMEWORK FOR PRIVACY-PRESERVING INTRUSION DETECTION USING FEATURE SELECTION AND FUSION MODELS.,2025,https://ijamjournal.org/ijam/publication/index.php/ijam/article/download/356/323
+R1099,10.1016/j.iotcps.2026.03.002,AOA-SMA-EGRUAttNet: A hybrid feature selection and dual-stream attention-based intrusion detection framework for IIoT systems,2025,https://doi.org/10.1016/j.iotcps.2026.03.002
+R1100,10.1007/s43926-025-00211-8,AQU-IMF-RFE: an extended feature selection method for intrusion detection in IoMT data using aquila optimization-based mutual information and recursive feature elimination,2025,https://link.springer.com/content/pdf/10.1007/s43926-025-00211-8.pdf
+R1102,10.52436/1.jutif.2025.6.5.3817,Accelerating Classification For Iot Attack Detection Using Decision Tree Model With Gini Impurity Tree-Based Feature Selection Technique,2025,https://jutif.if.unsoed.ac.id/index.php/jurnal/article/download/3817/1065
+R1104,10.1109/enc68268.2025.11311918,Adaptive Cybersecurity for Industrial Environments Using Evolutionary Algorithms: A Methodological Proposal,2025,
+R1111,10.18280/isi.300419,Advances in IoT Intrusion Detection: Deploying Hybrid Deep Learning and Metaheuristic Algorithms for Optimal Feature Selection,2025,https://iieta.org/download/file/fid/168761
+R1113,10.3390/systems13040231,Advancing Artificial Intelligence of Things Security: Integrating Feature Selection and Deep Learning for Real-Time Intrusion Detection,2025,https://doi.org/10.3390/systems13040231
+R1116,10.3390/s25226958,AegisGuard: A Multi-Stage Hybrid Intrusion Detection System with Optimized Feature Selection for Industrial IoT Security,2025,https://www.mdpi.com/1424-8220/25/22/6958/pdf?version=1763107118
+R1127,10.3390/s25072288,An Explainable LSTM-Based Intrusion Detection System Optimized by Firefly Algorithm for IoT Networks,2025,https://www.mdpi.com/1424-8220/25/7/2288/pdf?version=1743750997
+R1134,10.32604/cmc.2025.075212,An Intelligent Multi-Stage GA–SVM Hybrid Optimization Framework for Feature Engineering and Intrusion Detection in Internet of Things Networks,2025,https://cdn.techscience.press/files/cmc/2026/TSP_CMC-87-1/TSP_CMC_75212/TSP_CMC_75212.pdf
+R1137,10.1038/s41598-025-08905-3,An IoT intrusion detection framework based on feature selection and large language models fine-tuning,2025,https://www.nature.com/articles/s41598-025-08905-3.pdf
+R1139,10.1109/comp-sif65618.2025.10969957,An Optimized Deep Learning Approach for Intrusion Detection: AE-DBN Hybrid Model with Dingo Feature Selection on CSE-CIC-IDS2018,2025,
+R1140,10.1109/access.2025.3602840,An RF-TabPFN-Based Framework for Few-Shot IoT Network Attack Recognition Using Lasso-RFE Feature Selection,2025,https://doi.org/10.1109/access.2025.3602840
+R1142,10.1007/s43621-025-01141-9,An adaptive hybrid framework for IIoT intrusion detection using neural networks and feature optimization using genetic algorithms,2025,https://link.springer.com/content/pdf/10.1007/s43621-025-01141-9.pdf
+R1150,10.1007/s10586-025-05374-1,An ensemble framework with improved grey wolf optimization algorithm and multi-level feature selection for IoT intrusion detection,2025,
+R1152,10.1038/s41598-025-91663-z,An improved synergistic dual-layer feature selection algorithm with two type classifier for efficient intrusion detection in IoT environment,2025,https://doi.org/10.1038/s41598-025-91663-z
+R1153,10.1038/s41598-025-13457-7,An intelligent deep representation learning with enhanced feature selection approach for cyberattack detection in internet of things enabled cloud environment,2025,https://www.nature.com/articles/s41598-025-13457-7.pdf
+R1157,10.1038/s41598-025-22074-3,An intrusion detection system in the Internet of Things with deep learning and an improved arithmetic optimization algorithm (AOA) and sine cosine algorithm (SCA),2025,https://www.nature.com/articles/s41598-025-22074-3.pdf
+R1161,10.1002/spy2.70142,Anomaly Based Network Intrusion Detection System Using Filter‐Based Hybrid Feature Selection and Stacking Classifier for IoT Networks,2025,
+R1166,10.1109/isdfs65363.2025.11012020,Anomaly Detection in Metaverse Healthcare for 6G-Enabled Internet of Things: An Approach Based on Feature Selection,2025,https://doi.org/10.2139/ssrn.6077409
+R1168,10.31449/inf.v49i11.8708,Anomaly-based Intrusion Detection in IoT using Enhanced Kepler Optimization Algorithm for Feature Selection,2025,https://www.informatica.si/index.php/informatica/article/download/8708/5366
+R1173,10.1007/978-3-032-05748-8_13,Assessing Feature Selection Techniques for AI-Based IoT Network Intrusion Detection,2025,
+R1176,10.1109/isacc65211.2025.10969207,Attack Prediction in Supply Chain Management Systems Using Hybrid Quantum-Classical Generative Advarsarial Network with War Strategy Optimizer,2025,
+R1177,10.1038/s41598-025-98180-z,Attack resilient IoT security framework using multi head attention based representation learning with improved white shark optimization algorithm,2025,https://www.nature.com/articles/s41598-025-98180-z.pdf
+R1184,10.1109/icdsis65355.2025.11071121,Binary Whale Optimization Algorithm with Bidirectional Long Short-Term Memory Blockchain-based Privacy-Preserving for Healthcare Data in Internet of Things,2025,
+R1185,10.1038/s41598-025-06568-8,Blockchain enhanced distributed denial of service detection in IoT using deep learning and evolutionary computation,2025,https://www.nature.com/articles/s41598-025-06568-8.pdf
+R1186,10.1109/icicnis66685.2025.11315722,Blockchain-Assisted MANET Security using Addax Optimizer and Discrete Hopfield Neural Networks,2025,
+R1187,10.3934/math.2025732,Blockchain-driven cybersecurity detection model using quantum bidirectional gated recurrent unit with metaheuristic algorithms on IoT environment,2025,http://www.aimspress.com/aimspress-data/math/2025/7/PDF/math-10-07-732.pdf
+R1188,10.1016/j.aej.2025.06.030,BoT-EnsIDS: Approach for detecting IoT Botnet attacks leveraging bio-inspired based ensemble feature selection and hybrid deep learning model,2025,https://doi.org/10.1016/j.aej.2025.06.030
+R1191,10.11591/ijai.v14.i2.pp1232-1241,Boosting industrial internet of things intrusion detection: leveraging machine learning and feature selection techniques,2025,https://ijai.iaescore.com/index.php/IJAI/article/download/26765/14453
+R1197,10.1109/icicke65317.2025.11136636,Cauchy Gaussian Mutation Strategy based Parrot Optimizer for Feature Selection in Intrusion Detection System,2025,
+R1198,10.1109/jiot.2025.3613994,Causal Gray Wolf Optimization: A Novel Approach to Robust Network Anomaly Detection Amidst Data Redundancy,2025,
+R1200,10.1109/setcom64758.2025.10932334,Chaotic Adaptive Particle Swarm Optimization and Quantum-Inspired Genetic Algorithm for Robust Feature Selection in IoT Intrusion Detection,2025,
+R1209,10.1109/icicv64824.2025.11085845,Comparative Study of Feature Selection Methods for Deep Learning–based Intrusion Detection in IoT Networks,2025,
+R1211,10.11591/ijaas.v14.i2.pp373-383,Contraction control factor-based gorilla troop optimizer for features in intrusion detection systems,2025,https://ijaas.iaescore.com/index.php/IJAAS/article/download/21651/13263
+R1231,10.61882/jist.48455.13.50.130,Designing a Hybrid Algorithm that Combines Deep Learning and PSO for Proactive Detection of Attacks in IoT Networks,2025,https://jist.ir/Journal/DownloadFile/48455
+R1234,10.33411/ijist/1246,Detection of Application-Layer Dos Attacks in IoT Devices Using Feature Selection and Machine Learning Models,2025,https://journal.50sea.com/index.php/IJIST/article/download/1246/1789
+R1235,10.1109/icdt63985.2025.10986347,Detection of Minority Attacks in IOT Devices Using Recursive Feature Elimination Technique,2025,
+R1236,10.30865/jurikom.v12i4.8554,Deteksi Serangan ICMP Flood pada Internet of Things dengan Feature Selection dan Machine Learning,2025,https://ejurnal.stmik-budidarma.ac.id/index.php/jurikom/article/download/8554/4164
+R1239,10.36108/ujees/5202.70.0173,Development of an Intrusion Detection System Using Mayfly Feature Selection and Support Vector Machine Algorithms,2025,https://ujees.com.ng/publication/vol_7/issue_1/Article_37.pdf
+R1244,10.1109/iciccs65191.2025.10984624,Dynamic Multi-Scale Graph-Attention Temporal Network and Adaptive Hybrid Feature Selection Framework for a Blockchain-Integrated Intrusion Detection System in IIoT,2025,
+R1247,10.12732/ijam.v38i5.600,EFFICIENT DETECTION AND MITIGATION OF SYBIL AND CLONE ID ATTACKS IN IOT USING PARTICLE SWARM OPTIMIZED DECISION TREE,2025,https://ijamjournal.org/ijam/publication/index.php/ijam/article/download/600/555
+R1249,10.1109/aiit63112.2025.11082948,EFSMDCD: Method for Detecting and Categorzing Dos and DDoS Attacks using Ensemble Feature Selection,2025,
+R1257,10.47191/ijmra/v8-i11-25,Efficient Intrusion Detection using Feature Engineering Based on Deep Spectral Artificial Neural Network for IOT Network,2025,https://ijmra.in/v8i11/Doc/25.pdf
+R1262,10.36948/ijfmr.2025.v07i01.36636,Energy Efficient Intrusion Detection System (IDS) and Feature Selection for IoT using DNN Model,2025,https://doi.org/10.36948/ijfmr.2025.v07i01.36636
+R1263,10.1109/isac364032.2025.11156831,Energy Valley Optimized Feature Selection with CatBoost Classifier for Intelligent Industrial IoT Intrusion Detection,2025,
+R1267,10.3390/s25103150,Enhanced Anomaly Detection in IoT Networks Using Deep Autoencoders with Feature Selection Techniques,2025,https://www.mdpi.com/1424-8220/25/10/3150/pdf?version=1747398545
+R1269,10.1109/aimlsystems67835.2025.11330698,Enhanced Feature Selection Using HCVR for IoT Datasets,2025,
+R1270,10.21070/pels.v8i1.2673,Enhanced Feature Selection With EFPA for Ensemble Intrusion Detection,2025,https://pels.umsida.ac.id/index.php/PELS/article/download/2673/1370
+R1272,10.1038/s41598-024-81147-x,Enhanced Grey Wolf Optimization (EGWO) and random forest based mechanism for intrusion detection in IoT networks,2025,https://www.nature.com/articles/s41598-024-81147-x.pdf
+R1273,10.1109/icbds67396.2025.11379867,Enhanced Hybrid Deep Learning Model for Cybersecurity Threat Detection Using CNN-Bi-LSTM and Feature Optimization,2025,
+R1274,10.58496/mjcsc/2025/023,Enhanced IOT Cyber-Attack Detection Using Grey Wolf Optimized Feature Selection and Adaptive SMOTE,2025,https://mesopotamian.press/journals/index.php/cs/article/download/931/902
+R1276,10.64758/ddsmb391,Enhanced Intrusion Detection System for IoT Networks Using Hybrid Deep Learning and Feature Selection Techniques,2025,
+R1282,10.1016/j.jer.2025.10.016,Enhanced intrusion detection system using feature selection and hybrid learning models for high performance and efficiency in an IOT environment,2025,https://doi.org/10.1016/j.jer.2025.10.016
+R1290,,Enhancing Intrusion Detection in AIOT using Intelligent Feature Selection and Deep Learning Fusion,2025,https://jcbi.org/index.php/Main/article/download/1026/719
+R1292,10.4314/dujopas.v11i1c.9,Enhancing Intrusion Detection in IoT Platforms Using a Novel Hybrid Gorilla Troops and Bird Swarm Optimization Algorithm,2025,https://www.ajol.info/index.php/dujopas/article/download/293429/276144
+R1293,10.21271/zjpas.37.6.13,Enhancing IoT Anomaly Detection using Hybrid CNN-LSTM Model and Interpretable Feature Selection,2025,https://doi.org/10.21271/zjpas.37.6.13
+R1297,10.22266/ijies2025.1031.05,Enhancing IoT Intrusion Detection: Deep Learning with Dual Statistical Feature Selection,2025,https://doi.org/10.22266/ijies2025.1031.05
+R1300,10.1007/s40995-025-01851-9,Enhancing IoT Network Security: A Feature Selection and Explainable AI Approach for DDoS Attack Detection,2025,
+R1305,10.22214/ijraset.2025.69739,Enhancing IoT Security using Feature Reduction Techniques,2025,https://doi.org/10.22214/ijraset.2025.69739
+R1308,10.1109/icosec67334.2025.11459502,Enhancing IoT and Edge Computing Security with PCA-Driven Dimensionality Reduction and TCN-based Intrusion Detection,2025,
+R1310,10.1007/s00521-025-11001-2,Enhancing IoT security through boosting and feature reduction techniques for multiclass intrusion detection,2025,
+R1311,10.1109/icic68054.2025.11309392,Enhancing IoT-Cloud Intrusion Detection Using Hybrid Random Forest-PSO and XGBoost-GWO Models,2025,
+R1312,10.1038/s41598-025-22453-w,Enhancing IoT-based healthcare security with grey filter bayesian CNN and optimization algorithms,2025,https://www.nature.com/articles/s41598-025-22453-w.pdf
+R1314,10.57001/huih5804.2025.350,Enhancing data processing efficiency in IoT intrusion detection systems through feature reduction,2025,https://doi.org/10.57001/huih5804.2025.350
+R1317,10.62420/selco.v1i2.7,Enhancing the performance of IoT network intrusion detection models using NF-ToN-IoT-V2 and IoTID20 datasets with chi-square feature selection,2025,https://selcojournal.com/index.php/selco/article/download/7/12
+R1318,10.1002/ett.70099,Ensemble Feature Engineering and Deep Learning for Botnet Attacks Detection in the Internet of Things,2025,
+R1331,10.3390/math13233869,Evolutionary Computation for Feature Optimization and Image-Based Dimensionality Reduction in IoT Intrusion Detection,2025,https://www.mdpi.com/2227-7390/13/23/3869/pdf?version=1764757763
+R1332,10.1002/dac.70031,Evolutionary LightGBM ‐Based Intrusion Detection System for IoT Networks,2025,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/dac.70031
+R1336,10.1109/pst65910.2025.11268886,Exploring the Impact of Feature Selection on Non-Stationary Intrusion Detection Models in IoT Networks,2025,
+R1337,10.1109/iccst63435.2025.11293874,Exposing and Mitigating Adversarial AI Threats in IoT/5G Intrusion Detection Systems Using Random Forest and Feature Reduction,2025,
+R1341,10.1109/eiecc67963.2025.11409572,FS-AIDF: A Feature Selection-Enhanced Adaptive Intrusion Detection Framework in Industrial Internet of Things,2025,
+R1344,10.14569/ijacsa.2025.0160146,Feature Reduction and Anomaly Detection in IoT Using Machine Learning Algorithms,2025,https://thesai.org/Downloads/Volume16No1/Paper_46-Feature_Reduction_and_Anomaly_Detection_in_IoT.pdf
+R1345,10.1109/icbats66542.2025.11258425,Feature Selection Based on Wrapper Technique Using HOA Algorithm and Random Forest for Intrusion Detection in IoT Networks,2025,
+R1346,10.1109/sami63904.2025.10883062,Feature Selection Methods for Intrusion Detection Systems in IoT,2025,
+R1348,10.1109/icdcece65353.2025.11035107,Feature Selection in Intrusion Detection System using Levy Flight based Crested Porcupine Optimization,2025,
+R1352,10.1117/12.3067742,Feature selection for enhanced IIoT security: a machine learning approach to intrusion detection,2025,
+R1365,10.1109/aece67531.2025.11386571,G-EAIDS: A Graph-Evolutionary Adaptive Framework for Robust Multi-Class DDoS Detection,2025,
+R1370,10.14569/ijacsa.2025.0160554,GOA-WO-ML: Enhancing Internet of Things Security with Gannet Optimization and Walrus Optimizer-Based Machine Learning,2025,http://thesai.org/Downloads/Volume16No5/Paper_54-GOA_WO_ML_Enhancing_Internet_of_Things_Security.pdf
+R1371,10.1109/iccmc65190.2025.11140984,Gaussian Weight Black Widow Optimization based Feature Selection and Deep Learning for Botnet Attack Detection in IoT Healthcare Systems,2025,
+R1375,10.1016/j.knosys.2025.114419,HBOFFS: Hybrid breeding optimization algorithm inspired federated feature selection for intrusion detection in IIoT,2025,
+R1382,10.1109/rcsm67767.2025.11507940,Hybrid Approach for Cloud Intrusion Detection: Feature Selection & Classification,2025,
+R1385,10.64758/2hbjkf75,Hybrid Deep Learning and Feature Engineering-Driven Adaptive IDS for Strengthening IoT Network Cybersecurity,2025,
+R1388,10.38094/jastt62303,Hybrid Feature Selection and Deep Neural Architectures for Real-Time Distributed Denial of Service Detection in Cybersecurity Systems,2025,https://jastt.org/index.php/jasttpath/article/download/303/117
+R1389,10.1109/iceeng64546.2025.11031273,Hybrid Feature Selection for Efficient Machine Learning-Based Intrusion Detection in IoT Networks,2025,
+R1390,10.1109/sisimpact67725.2025.11439128,Hybrid Feature Selection for Intrusion Detection Systems using Pearson Correlation and Boruta-LGBM Algorithm,2025,
+R1391,10.1109/raaicon69033.2025.11502208,Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection,2025,
+R1392,10.1109/iconstem65670.2025.11374686,Hybrid IDS System with Neural Algorithmic Reasoning and Evolutionary Feature Selection for Internet-Based Optimized Communication,2025,
+R1393,10.31763/ijrcs.v5i6.2131,Hybrid Intrusion Detection System for IoT Networks Using Genetic Algorithms and Support Vector Machines,2025,https://doi.org/10.31763/ijrcs.v5i6.2131
+R1394,10.1007/s43926-025-00190-w,Hybrid IoT-CAD system: optimized feature selection based gated recurrent residual deep learning for cyber attack detection in IoT networks,2025,https://link.springer.com/content/pdf/10.1007/s43926-025-00190-w.pdf
+R1396,,"Hybrid Machine Learning and Deep Learning Approach for Heart Attack Prediction Using Clinical, Lifestyle, and Time-Series Data with Enhanced Feature Selection and Classification",2025,https://www.seejph.com/index.php/seejph/article/download/5734/3800
+R1397,10.32604/cmes.2025.070679,Hybrid Meta-Heuristic Feature Selection Model for Network Traffic-Based Intrusion Detection in AIoT,2025,https://cdn.techscience.press/files/CMES/2025/TSP_CMES-145-1/TSP_CMES_70679/TSP_CMES_70679.pdf
+R1398,10.1109/iconat66879.2025.11362802,Hybrid Metaheuristic Algorithm for Feature Selection in DDoS Attack Detection in IoT Environment,2025,
+R1401,10.1109/raeeucci63961.2025.11048235,Hybrid Optimization Framework for Feature Selection in WSN Using Red Kite and Firefly Algorithms with Ensemble Learning for Intrusion Detection,2025,
+R1402,10.1109/ictcs65341.2025.10989338,Hybrid Optimization-Based DDoS Attack Detection Using Fireworks and Grey Wolf Algorithms with Deep Learning,2025,
+R1417,10.1109/icdcece65353.2025.11034944,Improved Coati Optimization Algorithm for Feature Selection Enabled Intrusion Detection in Internet of Things,2025,
+R1419,10.1109/gcwkshps68340.2025.11591216,Improving Anomaly-based Intrusion Detection through Accuracy-Informed Exploitation of Shapley Value Feature Selection,2025,
+R1420,10.30871/jaic.v9i2.9080,Improving Attack Detection in IoV with Class Balancing and Feature Selection,2025,https://jurnal.polibatam.ac.id/index.php/JAIC/article/download/9080/2634
+R1423,10.1109/icaeccs68240.2025.11384766,Improving Intrusion Detection in IoT Networks Using Tree-Based Ensemble Methods and Mutual Information Feature Selection,2025,
+R1426,10.1109/icwr65219.2025.11006219,Improving the Performance of Network Intrusion Detection Systems in IoT Using Grid Search & Feature Selection by Decision Tree,2025,
+R1427,10.1109/snpd65828.2025.11253024,Improving the efficiency of attack detection in cellular networks through the combination of statistical feature selection methods and machine learning algorithms,2025,
+R1429,10.1109/bigdata66926.2025.11401486,Information Granulation for Hierarchical Feature Selection in Detection of Anomalies in IoT Devices,2025,
+R1434,10.1038/s41598-025-05545-5,Integration of metaheuristic based feature selection with ensemble representation learning models for privacy aware cyberattack detection in IoT environments,2025,https://www.nature.com/articles/s41598-025-05545-5.pdf
+R1436,10.31185/wjps.731,Intelligent Cyber-Attack Detection in IoT Networks Using IDAOA-Based Wrapper Feature Selection,2025,https://wjps.uowasit.edu.iq/index.php/wjps/article/download/731/396
+R1440,10.1109/icort64008.2025.11115621,Intelligent Intrusion Detection in Military IoT Networks Using Recursive Feature Elimination with Extreme Gradient Boosting,2025,
+R1443,10.31326/jisa.v8i2.2487,Interpretable Ensemble-Based Intrusion Detection Using Feature Selection on the ToN_IoT Dataset,2025,https://trilogi.ac.id/journal/ks/index.php/JISA/article/download/2487/1371
+R1446,10.1109/access.2025.3595595,Intrusion Detection System Framework for SDN-Based IoT Networks Using Deep Learning Approaches With XAI-Based Feature Selection Techniques and Domain-Constrained Features,2025,https://doi.org/10.1109/access.2025.3595595
+R1447,10.48084/etasr.13511,Intrusion Detection System Traffic Classification Based on Machine Learning with Correlation-Based Filtering and a Genetic Algorithm-Inspired Feature Selection Method for IoT Networks,2025,https://etasr.com/index.php/ETASR/article/download/13511/5605
+R1449,10.1109/icicacs65178.2025.10967983,Intrusion Detection System for Anomaly in IoT Using Nonlinear Convergence Factor Using Salp Swarm Algorithm,2025,
+R1453,10.1109/icoici65217.2025.11253413,"Intrusion Detection for MQTT IoT Traffic using Evolutionary Feature Selection, Ensemble Learning, and Explainable AI",2025,
+R1456,10.1109/wincom65874.2025.11313359,Intrusion Detection in IoT Networks Using Hybrid Feature Selection,2025,
+R1466,10.1109/icc52391.2025.11161305,IoT Intrusion Detection Using Machine Learning Classifiers and PCA Dimensionality Reduction for N-BaIoT Dataset,2025,
+R1467,10.52783/cana.v32.5821,IoT Intrusion Detection with Mutual Information Feature Selection and Machine Learning Classifiers,2025,https://doi.org/10.52783/cana.v32.5821
+R1472,10.1049/cmu2.70055,IoT‐RNNEI: An Internet of Things Attack Detection Model Leveraging Random Neural Network and Evolutionary Intelligence,2025,https://doi.org/10.1049/cmu2.70055
+R1475,10.11591/ijai.v15.i5.pp4026-4038,LLM-FS-Agent: A Deliberative Role-based Large Language Model Architecture for Transparent Feature Selection,2025,https://ijai.iaescore.com/index.php/IJAI/article/download/30641/15372
+R1479,10.1109/aists66100.2025.11233012,Leveraging SHAP for Feature Selection and Performance Benchmarking Across Hybrid Learning Models,2025,
+R1481,10.1016/j.csa.2025.100098,Leveraging federated learning for DoS attack detection in IoT networks based on ensemble feature selection and deep learning models,2025,https://doi.org/10.1016/j.csa.2025.100098
+R1486,10.1007/978-3-032-16165-9_28,Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation,2025,
+R1489,10.1007/s43926-025-00203-8,Lightweight intrusion detection system for IoT with improved feature engineering and advanced dynamic quantization,2025,https://link.springer.com/content/pdf/10.1007/s43926-025-00203-8.pdf
+R1500,10.1080/23742917.2025.2542995,Machine learning-enhanced IoT network security: a Black Hole Algorithm-based feature selection approach for intrusion detection,2025,
+R1503,10.14569/ijacsa.2025.0160664,Metaheuristic-Driven Feature Selection for IoT Intrusion Detection: A Hierarchical Arithmetic Optimization Approach,2025,http://thesai.org/Downloads/Volume16No6/Paper_64-Metaheuristic_Driven_Feature_Selection.pdf
+R1504,10.22266/ijies2025.0930.40,Metaheuristic-Tuned Ensemble Learning for Robust Anomaly Detection and Classification in IoT Environments,2025,https://doi.org/10.22266/ijies2025.0930.40
+R1507,10.1038/s41598-025-22936-w,Modelling of hybrid deep learning framework with recursive feature elimination for distributed denial of service attack detection systems,2025,https://www.nature.com/articles/s41598-025-22936-w.pdf
+R1511,10.1109/nmitcon65824.2025.11187556,Multi-Domain Cyber Threat Classification Using Enhanced Genetic Algorithm and Deep Neural Networks,2025,
+R1515,10.1109/aemcse65292.2025.11042302,Network intrusion detection based on layered hybrid grey wolf algorithm and lightweight Transformer,2025,
+R1516,10.1007/s11227-025-07755-0,New design strategies for IoT intrusion detection using boosting and feature selection,2025,
+R1518,10.1109/sita67914.2025.11273412,On the Impact of Filter Based Feature Selection for Machine Learning Based IDS in OT Systems,2025,
+R1519,10.1109/cait68620.2025.11424793,OptiGuard-IoT: An IoT Intrusion Detection System Using Hybrid GA-PSO Optimization Algorithm,2025,
+R1522,10.1142/s0219467827500057,Optimization-Based Feature Selection and Classification with Modified Activation-Tuned Deep BiLSTM for Attack Detection in IoT,2025,
+R1527,10.52783/jisem.v10i11s.1518,Optimized Feature Selection techniques for Distributed Intrusion Detection System (DIDS) in IoT Environment,2025,https://jisem-journal.com/index.php/journal/article/download/1518/601
+R1529,10.1109/icoicc64033.2025.11052172,Optimized Intrusion Detection for IoT Networks Using Machine Learning and Feature Selection with RTGBO-ELM Integration,2025,
+R1533,10.1007/s10586-025-05533-4,Optimized feature selection for IoT intrusion detection using firefly and Harris Hawk Optimization algorithms with a new multi-objective fitness function,2025,
+R1535,10.1038/s41598-025-29884-5,Optimized intrusion detection for IoT networks using Cauchy–Gaussian hybrid evolutionary feature selection,2025,https://www.nature.com/articles/s41598-025-29884-5_reference.pdf
+R1538,10.12720/jait.16.3.283-302,Optimizing Intrusion Detection: Advanced Feature Selection and Machine Learning Techniques Using the CSE-CIC-IDS2018 Dataset,2025,https://doi.org/10.12720/jait.16.3.283-302
+R1539,10.1007/978-3-032-00642-4_19,Optimizing IoT Attack Detection in Edge AI: A Comparison of Lightweight Machine Learning Models and Feature Reduction Techniques,2025,
+R1540,10.18280/ijsse.151019,Optimizing IoT Intrusion Detection and Attack Classification via WOA-Based Feature Reduction and Boosting Algorithms,2025,https://doi.org/10.18280/ijsse.151019
+R1544,10.1038/s41598-025-29278-7,Optimizing feature selection with random reversal and adaptive Gaussian based Dung beetle optimizer for intrusion detection system in IoT,2025,https://www.nature.com/articles/s41598-025-29278-7_reference.pdf
+R1545,10.22441/sinergi.2025.3.019,Optimizing intrusion detection with data balancing and feature selection techniques,2025,https://publikasi.mercubuana.ac.id/index.php/sinergi/article/download/31180/10073
+R1547,10.1016/j.measen.2024.101806,PCA and PSO based optimized support vector machine for efficient intrusion detection in internet of things,2025,https://doi.org/10.1016/j.measen.2024.101806
+R1548,10.1002/spy2.499,PCM ‐ RF a Hybrid Feature Selection Mechanism for Intrusion Detection System in IoT,2025,https://doi.org/10.1002/spy2.499
+R1549,10.1109/iceteg66194.2025.11473133,PSO and GRU or Intrusion Detection in IoT: An Optimization Based Approach,2025,
+R1550,10.1038/s41598-025-20175-7,PSO-DT based BagDT: a robust lightweight ensemble framework for efficient feature selection and DDoS attack detection in IoT environment,2025,https://www.nature.com/articles/s41598-025-20175-7.pdf
+R1551,10.1109/iceei68459.2025.11330683,Particle Swarm Optimization for Feature Selection in IoT Sensor Anomaly Detection,2025,
+R1552,10.1016/j.dsm.2025.02.005,Particle swarm optimization-enhanced machine learning and deep learning techniques for Internet of Things intrusion detection,2025,https://doi.org/10.1016/j.dsm.2025.02.005
+R1555,10.63328/ijrdes-v7ri6p1,Predicting Botnet Attack and Severity in Fog Computing Networks using Deep Learning with Reinforced Feature Optimization,2025,https://doi.org/10.63328/ijrdes-v7ri6p1
+R1562,10.1038/s41598-025-87454-1,Privacy-preserving approach for IoT networks using statistical learning with optimization algorithm on high-dimensional big data environment,2025,https://www.nature.com/articles/s41598-025-87454-1.pdf
+R1568,10.14445/23488549/ijece-v12i10p115,QryptaShield: Quantum-Inspired Feature Selection and RL-Calibrated Federated Learning for Low-False-Positive IoT Intrusion Detection,2025,https://www.internationaljournalssrg.org/../IJECE/2025/Volume12-Issue10/IJECE-V12I10P115.pdf
+R1569,10.17559/tv-20241130002158,Quantum Chameleon Swarm Optimizer-Based Feature Selection with Deep Learning for Intrusion Detection in Blockchain-Enabled IoT Environments,2025,https://hrcak.srce.hr/file/484741
+R1571,10.3390/technologies13100470,Quantum-Driven Chaos-Informed Deep Learning Framework for Efficient Feature Selection and Intrusion Detection in IoT Networks,2025,https://www.mdpi.com/2227-7080/13/10/470/pdf?version=1760710504
+R1574,10.1371/journal.pone.0328050,RETRACTED: Enhancing IoT cybersecurity through lean-based hybrid feature selection and ensemble learning: A visual analytics approach to intrusion detection,2025,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0328050&type=printable
+R1585,10.3390/app15084252,Resource-Efficient Traffic Classification Using Feature Selection for Message Queuing Telemetry Transport-Internet of Things Network-Based Security Attacks,2025,https://www.mdpi.com/2076-3417/15/8/4252/pdf?version=1744627078
+R1589,10.1109/sita67914.2025.11273748,Robust Intrusion Detection Framework Using Diffusion Model Data Augmentation and Hybrid Feature Selection,2025,
+R1591,10.1109/icmlant68509.2025.11394850,Robust and Transparent IoT Anomaly Detection via Feature Selection and Explainable Machine Learning,2025,
+R1592,10.1038/s41598-025-88286-9,Robust machine learning based Intrusion detection system using simple statistical techniques in feature selection,2025,https://www.nature.com/articles/s41598-025-88286-9.pdf
+R1593,10.7717/peerj-cs.3089,SA3C-ID: a novel network intrusion detection model using feature selection and adversarial training,2025,https://doi.org/10.7717/peerj-cs.3089
+R1596,10.1038/s41598-025-25033-0,SHAP enhanced transformer GWO boosting model for transparent and robust anomaly detection in IIoT environments,2025,https://www.nature.com/articles/s41598-025-25033-0.pdf
+R1600,,SWARM BASED FEATURE SELECTION AND ENSEMBLE DEEP LEARNING MODEL (EDLM) FOR BOTNET ATTACK DETECTION IN IoT HEALTHCARE SYSTEMS,2025,https://ijistudies.com/index.php/IJIS/article/download/381/387
+R1606,10.3390/s25134098,Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method,2025,https://www.mdpi.com/1424-8220/25/13/4098/pdf?version=1751296609
+R1621,10.1007/s10586-025-05495-7,TCSO-KD: a novel technique for optimal feature selection and knowledge distillation for efficient IoT intrusion detection systems,2025,
+R1623,10.22266/ijies2025.0630.60,Taylor Optimal Strategy with Starling Murmuration Optimizer and Kolmogorov-Arnold Networks for Detect Security Attack in IoT Environment,2025,https://doi.org/10.22266/ijies2025.0630.60
+R1624,10.1109/isac364032.2025.11156933,Temporal Pattern-Aware Intrusion Detection in Smart Homes via SCOA-Driven Feature Selection and Deep Learning,2025,
+R1626,10.3390/fi17110529,"Top-K Feature Selection for IoT Intrusion Detection: Contributions of XGBoost, LightGBM, and Random Forest",2025,https://www.mdpi.com/1999-5903/17/11/529/pdf?version=1763632207
+R1628,10.1177/17248035251361258,Toward a New Approach for Internet of Things (IoT) Intrusion Detection Based on Feature Selection and Tabular Generative Adversarial Network,2025,
+R1629,10.1109/eeite65381.2025.11166253,Toward an Early Warning System: Feature Selection Mechanism for Food Fraud from Fishing Activities,2025,
+R1635,10.47839/ijc.24.3.4198,Transforming IIoT Security Leveraging Deep Learning and Feature Selection for Superior Intrusion Detection,2025,https://computingonline.net/files/journals/1/template-0.pdf
+R1636,10.1109/access.2025.3629026,TwinGuard: A Supervised Machine Learning Framework for DoS Attack Detection in IoT-Enabled Digital Twins Using Random Forest and Feature Selection Optimization,2025,https://doi.org/10.1109/access.2025.3629026
+R1641,10.1016/j.jer.2025.03.004,VERSA NET FUSION WITH HYBRID FEATURE SELECTION FOR INTRUSION DETECTION IN IOT,2025,https://doi.org/10.1016/j.jer.2025.03.004
