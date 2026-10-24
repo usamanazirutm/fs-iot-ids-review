@@ -1,0 +1,17 @@
+\begin{table*}[htbp]\centering\scriptsize
+\caption{Domain-specific (fine-grained) macro-F1 (mean $\pm$ s.d. over seeds).}
+\label{tab:fine}
+\begin{tabular}{lcccc}
+\toprule
+Model & UNSW-NB15 & CICIoT2023 & Edge-IIoTset & Mean \\
+\midrule
+RF (per-domain) & 0.503 $\pm$ 0.009 & 0.730 $\pm$ 0.001 & 0.804 $\pm$ 0.012 & 0.679 \\
+XGBoost (per-domain) & \textbf{0.504 $\pm$ 0.000} & \textbf{0.750 $\pm$ 0.000} & 0.807 $\pm$ 0.000 & 0.687 \\
+MLP (per-domain) & 0.408 $\pm$ 0.015 & 0.721 $\pm$ 0.003 & 0.727 $\pm$ 0.004 & 0.618 \\
+CNN-1D (per-domain) & 0.391 $\pm$ 0.014 & 0.705 $\pm$ 0.004 & 0.747 $\pm$ 0.007 & 0.614 \\
+Pooled zero-padded MLP & 0.415 $\pm$ 0.014 & 0.710 $\pm$ 0.003 & 0.754 $\pm$ 0.001 & 0.626 \\
+HetIDS (neural) & 0.454 $\pm$ 0.009 & 0.717 $\pm$ 0.002 & 0.811 $\pm$ 0.022 & 0.661 \\
+HetIDS-X (proposed) & 0.490 $\pm$ 0.006 & 0.744 $\pm$ 0.000 & \textbf{0.817 $\pm$ 0.013} & 0.684 \\
+\bottomrule
+\end{tabular}
+\end{table*}

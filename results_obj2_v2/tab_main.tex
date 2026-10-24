@@ -1,0 +1,17 @@
+\begin{table*}[htbp]\centering\scriptsize
+\caption{Unified-taxonomy macro-F1 on each domain's test set (mean $\pm$ s.d. over seeds).}
+\label{tab:main}
+\begin{tabular}{lcccc}
+\toprule
+Model & UNSW-NB15 & CICIoT2023 & Edge-IIoTset & Mean \\
+\midrule
+RF (per-domain) & 0.527 $\pm$ 0.013 & 0.745 $\pm$ 0.001 & 0.811 $\pm$ 0.001 & 0.694 \\
+XGBoost (per-domain) & \textbf{0.531 $\pm$ 0.000} & \textbf{0.763 $\pm$ 0.000} & 0.817 $\pm$ 0.000 & 0.703 \\
+MLP (per-domain) & 0.481 $\pm$ 0.019 & 0.735 $\pm$ 0.003 & 0.806 $\pm$ 0.002 & 0.674 \\
+CNN-1D (per-domain) & 0.463 $\pm$ 0.012 & 0.718 $\pm$ 0.005 & 0.812 $\pm$ 0.006 & 0.664 \\
+Pooled zero-padded MLP & 0.457 $\pm$ 0.052 & 0.725 $\pm$ 0.003 & 0.820 $\pm$ 0.004 & 0.667 \\
+HetIDS (neural) & 0.527 $\pm$ 0.012 & 0.730 $\pm$ 0.001 & \textbf{0.831 $\pm$ 0.006} & 0.696 \\
+HetIDS-X (proposed) & 0.521 $\pm$ 0.009 & 0.757 $\pm$ 0.000 & 0.815 $\pm$ 0.000 & 0.698 \\
+\bottomrule
+\end{tabular}
+\end{table*}
